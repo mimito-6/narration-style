@@ -1,185 +1,194 @@
-## C1#0 out=41
-（默默推來一杯熱茶）
-辛苦了，今天就好好躺著吧，什麼都不用想。
+## C1#0 out=55
+（放下包包，靠在椅背上嘆氣）
 
-## C2#0 out=652
-很可能只是貓在注意牆後或牆上的小動靜，常見原因有：
+辛苦了，今天的班真的很累。躺下來休息就好，不用急著想什麼。
 
-- **聽到你聽不到的聲音**：貓能聽到超音波，像是牆內的老鼠、蟑螂、水管或電線發出的聲響。
-- **看到影子或反光**：陽光、手機或車燈在牆上移動的光點，都可能吸引貓的注意。
-- **牆上或附近有小蟲**：壁虎、蜘蛛或飛蟲都很常見。
-- **只是發呆**：貓會長時間盯著一個點放空，這本身很正常。
+## C2#0 out=292
+（貓盯著牆壁看，多半不是看到鬼。）
 
-如果以下情況出現，建議盡快帶去看獸醫：
+最常見的原因：
+1. **聽到聲音**：水管、暖氣、牆內老鼠或蟲子、鄰居走動，貓的聽力遠比人敏銳。
+2. **看到光影或小動物**：陽光移動、反光、蜘蛛、壁虎、小蟲在牆面爬。
+3. **單純發呆或警戒**：貓本來就常長時間凝視某處，尤其是視線高度有窗戶或通道的地方。
 
-- 突然開始盯牆，且持續很久、無法被打斷
-- 繞圈走、撞牆、走路不穩、認不得熟悉的地方
-- 把頭抵著牆、抽搐、突然叫個不停
-- 食慾或排泄明顯改變
+如果想確認，可以：
+- 去牆壁那邊聽聽看有沒有聲音
+- 檢查牆面、踢腳線附近有沒有蟲或小洞
 
-老貓（大約10歲以上）出現這類行為，也有可能是認知功能退化，需要檢查。
+若貓同時出現食慾改變、一直叫、走路異常或突然攻擊空氣等情況，建議找獸醫看看。
 
-## C3#0 out=314
-(翻了翻台北的步道地圖，挑幾個人少又好走的地方)
+## C3#0 out=273
+（翻出台北地圖，列出幾個安靜去處）
 
-**1. 大崙尾山／北投一帶的小路**
-陽明山邊陲的步道人潮比主線少很多，適合慢慢走、發呆。
+1. **台北植物園**（士林／大安）：早上人少，有溫室與池塘，適合慢慢散步。
+2. **大稻埕河濱公園**：沿河步道寬敞，傍晚可看淡水河與夕陽。
+3. **陽明山冷水坑、竹子湖一帶**：山路與步道較清幽，週末建議早點出發，避開車潮。
+4. **貓空（木柵）茶園步道**：山上茶園視野好，搭纜車或步行皆可，平日更安靜。
+5. **二二八和平公園周邊**：市中心綠地，閒逛與拍照方便。
 
-**2. 華山文創園區後方的綠地（週間早上）**
-週末人多，但平日上午很清靜，可以坐著看書。
+週末人潮多，若想更安靜，建議清晨前往，並避開假日下午的熱門景點。
 
-**3. 大安森林公園北側與植物園周邊**
-綠蔭多、座椅多，一個人散步很舒服，避開假日下午會比較安靜。
+## C4#0 out=182
+（放下筷子認真想一下）
 
-**4. 淡水紅毛城到米倉一段**
-沿河散步，走得慢也不無聊，清晨或傍晚人最少。
+兩者都不錯，看你要哪種：
 
-**5. 碧潭的早晨**
-九點前的湖邊幾乎沒人，適合釣魚式的放空。
+- **蛋餅**：蛋白質和油脂較多，比較有飽足感，但通常較油、鈉也高。
+- **飯糰**：碳水為主，升糖較快，若選糙米或雜糧、配蛋或豆製品會更均衡。
 
-想偏山或偏市區的哪一種，告訴我，我可以再縮小範圍。
+想要健康一點，選飯糰（糙米或雜糧）加一顆水煮蛋；想吃飽耐餓、上午不易餓，選蛋餅、少加醬。
 
-## C4#0 out=76
-(拿起筆記本想了一下)
-蛋餅和飯糰都可以,看你想要哪種。想吃飽、順口一點選飯糰;想要比較有熱量、口感豐富就選蛋餅。
+## S1#0 out=945
+（把兩組失敗數據攤開比對）
 
-## S1#0 out=843
-（遞上一杯熱茶，在旁邊坐下）
-實驗失敗很常見，這通常是流程或變因的問題，不代表你沒能力。建議這樣處理：
+失敗通常是流程或變因造成，不代表你沒能力。建議依序檢查：
 
-1. 先看對照組。若對照組也失敗，多半是試劑、設備或流程出問題。
-2. 逐步核對條件（溫度、時間、濃度、批號），並把每一步記錄下來。
-3. 把兩組數據和預期結果並列，找出共同的變因。
-4. 縮小變數，只重做最小版本的實驗，確認哪一步出錯。
-5. 把結果整理好，和指導教授討論，確定下一步方向。
+1. 確認對照組狀態：若對照組也異常，多半是試劑、儀器或操作流程的問題；若對照組正常，才是實驗條件本身的問題。
+2. 查批次與校正：試劑批號、儀器校正日期、樣本保存時間是否與前次成功時不同。
+3. 同條件重做一次：確認失敗是否可重現，排除偶然誤差。
+4. 一次只改一個變因：縮小範圍，每次記錄結果。
+5. 完整記錄失敗：日期、條件、結果、觀察到的異常，之後寫進實驗紀錄或報告，負結果本身也有參考價值。
+6. 拿著數據找師姐討論：把比對表和失敗紀錄帶過去，會比「整個做不出來」更容易找到原因。
 
-## S2#0 out=637
-（把一杯熱茶推到你面前，在旁邊坐下）
-十次被刷確實很消耗人，會懷疑自己很正常。先休息幾天，不用今天就決定要不要放棄。
+## S2#0 out=724
+（把履歷網站分頁先關掉）
 
-## S3#0 out=650
-三天沒回，可能是她還需要時間，也可能是還在生氣。先別急著追問，可以這樣做：
+連續被刷十次，任何人都會累，想放棄是這種階段很自然的感受。
 
-1. **先想清楚自己的部分。** 吵架時自己說了什麼、哪句話可能傷到她？不用找到完美答案，但要能說出一兩件具體的事。
-2. **傳一則簡短、不施壓的訊息。** 例如：「我有想過我們吵的事，我很在意這段友誼。你方便的時候我們聊聊，不急。」避免「為什麼不回我」「你到底要怎樣」這類句子。
-3. **道歉要具體。** 如果你有需要道歉的地方，直接說出是哪件事，例如「我那天說___的時候很不尊重你，對不起」。只說「對不起，是我的錯」通常不夠。
-4. **給她空間。** 發過一次訊息後，先等幾天，不要連續傳。
-5. **如果她還是不回，** 可以接受她暫時不想聯絡的可能，同時保持你這邊的態度：不冷嘲熱諷，也不在別人面前講她的壞話。
+這不代表你的能力不夠。面試結果常受職缺條件、競爭人數和時機影響，很多時候與個人表現無關。
 
-如果你願意，可以告訴我你們吵的大致內容，我幫你想想要怎麼開口，或一起擬一則訊息草稿。
+## S3#0 out=661
+（放下手機，先別急著再傳）
 
-## S4#0 out=269
-（默默把一杯熱茶推到你桌上，然後坐在旁邊不說話）
-當眾被罵很難受，今晚先別做辭職的決定，等情緒過去再想。
+1. **先別連發訊息。** 三天沒回通常是需要時間冷靜，不一定代表她已放棄這段友誼。
+2. **想清楚自己的部分。** 寫下你在意的是什麼，以及你想說的話。
+3. **發一則簡短、不施壓的訊息**，例如：「那天我的話說得不太好，對不起。你不用馬上回，我等你準備好。」
+4. **之後給她一段時間**，例如一週，期間不要追問「你為什麼不理我」。
+5. **若仍無回應**，可以另外約時間當面或通話談。
+6. **若她明確表示不想聯絡**，就尊重她的決定。
 
-## T1#0 out=934
-**TCP**（傳輸控制協定）是連線導向、可靠的傳輸方式。傳送前要先做三次握手建立連線，接收端會確認收到的資料，遺失的封包會重傳，資料也會按順序交給應用程式。代價是較多的延遲與額外負擔。
+## S4#0 out=652
+（放下滑鼠，靠回椅背）
 
-**UDP**（使用者資料包協定）是無連線、盡力而為的傳輸方式。直接送出資料，不確認、不重傳、不保證順序，標頭只有 8 bytes，延遲低，但遺失或亂序由應用程式自己處理（如果需要的話）。
+被當眾罵的當下，人很容易把「這次做砸」直接變成「我不適合待這裡」。辭職這件事先擱著，今天不決定。
 
-| 比較項目 | TCP | UDP |
+1. 把報告哪裡出錯寫成三行，只寫事實，不寫人格評價。
+2. 隔天找主管，講你會怎麼修正，這通常比辭職更能扭轉處境。
+
+## T1#0 out=453
+（翻開筆記本對照兩者的特性）
+
+**核心差異**
+
+| 項目 | TCP | UDP |
 |---|---|---|
-| 連線 | 需要建立連線（三次握手） | 不需要 |
-| 可靠性 | 保證送達、會重傳 | 不保證 |
-| 順序 | 保證按序 | 不保證 |
+| 連線 | 面向連線，需三次握手 | 無連線，直接送 |
+| 可靠性 | 保證送達、順序正確、有重傳 | 不保證送達或順序 |
 | 流量／壅塞控制 | 有 | 無 |
-| 標頭大小 | 最少 20 bytes | 8 bytes |
+| 標頭大小 | 較大（至少 20 bytes） | 較小（固定 8 bytes） |
 | 傳輸單位 | 位元組串流 | 獨立的資料報（datagram） |
-| 延遲 | 較高 | 較低 |
-| 廣播／多播 | 不支援 | 支援 |
+| 延遲 | 較高（握手、重傳、等待順序） | 較低 |
 
-**什麼時候用 TCP**
-- 資料完整性比速度重要：網頁（HTTP/HTTPS）、電子郵件（SMTP、IMAP）、檔案傳輸（FTP、SFTP）、資料庫連線、SSH。
-- 不能容忍遺失或亂序，例如下載檔案、傳送指令。
+**什麼時候用哪個**
 
-**什麼時候用 UDP**
-- 即時性比完整性重要，偶爾掉一兩個封包可以接受：線上遊戲、語音／視訊通話（VoIP、Zoom）、直播串流。
-- 查詢快、資料短、單次往返即可的服務：DNS，以及 DHCP。
-- 需要廣播或多播：區域網路探索、部分串流影音。
-- 需要自訂可靠性或壅塞控制，例如 QUIC（HTTP/3 底層）是在 UDP 之上自己實作可靠傳輸，目的是減少 TCP 的握手延遲與隊頭阻塞。
+使用 TCP：
+- 資料不能遺失或錯序，例如網頁（HTTP/HTTPS）、電子郵件、檔案傳輸（FTP、SFTP）、SSH
+- 傳輸量大、要求完整性，而非即時性
 
-簡單判斷：**「不能掉資料」用 TCP，「不能慢」用 UDP。**
+使用 UDP：
+- 即時性比完整性重要，例如線上遊戲、VoIP、視訊通話、直播
+- 本身會容忍少量遺失，例如 DNS 查詢
+- 需要廣播或多播
+- 協定想自行實作可靠機制，例如 QUIC（HTTP/3 底層）
 
-## T2#0 out=904
-**merge** 和 **rebase** 都能把一個分支的變更整合進另一個分支，但歷史紀錄的形狀不同。
+## T2#0 out=636
+（翻出兩種整合方式的差異）
 
-**git merge**
-- 建立一個新的合併提交（merge commit），把兩個分支的歷史接在一起。
-- 保留原本的分支結構和提交順序，歷史是真實發生的樣子。
-- 不改寫既有提交，對已經推送、別人也在用的分支比較安全。
-- 缺點是歷史會有較多分岔和合併節點，圖形較複雜。
-
-**git rebase**
-- 把你的分支提交「暫時拿掉」，接到目標分支的最新提交之後，再一個一個重新套用。
-- 結果是一條線性的歷史，沒有合併提交，看起來更乾淨。
-- 會產生新的提交雜湊值（內容相同，但父提交不同），等於改寫歷史。
-- 解衝突時是逐個提交處理，衝突可能要解好幾次。
-
-**範例**
-
+**merge**：把兩條分支的末端接在一起，產生一個有兩個父節點的合併提交（merge commit）。原有歷史保留，分支拓樸可見。
 ```
-        A---B---C  feature
-       /
-D---E---F---G  main
+git checkout main
+git merge feature
 ```
 
-- 在 main 執行 `git merge feature`：多出一個合併提交 M，歷史是 `D-E-F-G-M`，並分支接回 `A-B-C`。
-- 在 feature 執行 `git rebase main`：A、B、C 被重新套用到 G 之後，成為 `D-E-F-G-A'-B'-C'`，之後再在 main 上 fast-forward 合併即可。
+**rebase**：把你的分支提交「搬」到目標分支最新提交之後，逐一重播，產生新的提交雜湊。歷史呈現為一條直線。
+```
+git checkout feature
+git rebase main
+```
 
-**黃金法則**：不要對已經推送到共享遠端、其他人可能基於它工作的分支做 rebase。要改寫歷史時，只在自己的本地或私人分支上進行；如果要推送改寫過的分支，通常需要 `git push --force-with-lease`。
+**主要取捨**
+- 安全性：merge 不改寫既有提交；rebase 會改寫，已推送且他人在用的分支不要 rebase。
+- 歷史：merge 保留真實的開發順序；rebase 讓紀錄較乾淨、線性。
+- 衝突：merge 一次解決；rebase 會逐個提交重複解衝突，可用 `git rebase --continue` 繼續，或 `--abort` 放棄。
 
-**實務建議**
-- 想保留完整歷史、或在共享分支上整合：用 merge。
-- 想整理自己尚未分享的功能分支、讓提交紀錄乾淨：用 rebase（可搭配 `git rebase -i` 整理提交）。
+## T3#0 out=1247
+（對照錯誤訊息的行號）
 
-## T3#0 out=1656
-（翻開 traceback，確認是某個列表被讀取到不存在的位置）
-IndexError 代表索引超出列表範圍。合法範圍是 `0` 到 `len(lst) - 1`，負索引則是 `-len(lst)` 到 `-1`。
+`IndexError` 表示程式存取的索引超出 list 範圍。合法索引是 `0` 到 `len(lst) - 1`，負索引則是 `-len(lst)` 到 `-1`。
 
 常見原因：
-1. **索引超過長度**：例如列表只有 3 個元素卻存取 `lst[3]`，或 `range(len(lst) + 1)` 造成 off-by-one。
-2. **列表為空**：`lst[0]` 執行時 `lst` 是空的，常見於篩選、查詢或讀檔後結果為空。
-3. **字串切割結果不如預期**：`line.split(",")[1]` 遇到沒有逗號的行就會出錯，CSV 欄位缺漏也會造成同樣的問題。
-4. **迴圈中修改列表**：邊遍歷邊 `remove` 或 `del`，索引會位移而越界。
-5. **命令列參數缺失**：沒有傳入參數時，`sys.argv[1]` 會出錯。
 
-排查：在出錯行前印出 `len(lst)` 與索引值，對照 traceback 找出是哪個變數。
+1. **空 list 取值**：`items = []` 後直接 `items[0]`。
+2. **off-by-one**：`range(len(lst) + 1)` 多跑一次，或 `range(1, len(lst))` 漏掉最後一個元素。
+3. **迴圈中修改 list**：一邊迭代一邊 `remove()` 或 `append()`，長度改變導致索引錯位。
+4. **解析結果欄位不足**：例如 `line.split(',')[2]`，但該行只有兩欄。
+5. **搜尋無結果仍取值**：例如 `re.findall(...)[0]` 沒有匹配時回傳空 list。
+6. **命令列參數未檢查**：例如 `sys.argv[1]`，但執行時沒有提供參數。
+7. **索引計算錯誤**：例如應用 `len(lst) - 1` 卻寫成 `len(lst)`。
 
-防護寫法：
+修正方式是在取值前先檢查長度：
+
 ```python
-if len(lst) > 2:
-    value = lst[2]
+items = []
+if items:
+    print(items[0])
 else:
-    value = None  # 預設值
+    print("list 是空的")
 ```
 
-## T4#0 out=199
-(翻開Docker的概念筆記)
+## T4#0 out=307
+(解釋概念，不需動工具)
 
-**Image（映像檔）** 是唯讀的範本，包含應用程式、執行環境、函式庫與設定，類似「安裝光碟」或「class」。
+**Image（映像檔）**：唯讀的範本，像「安裝光碟」或「類別（class）」。內含應用程式、函式庫與設定，由多層檔案堆疊而成，靜態存放在本機或 registry（如 Docker Hub）。
 
-**Container（容器）** 是 image 的執行實例，會在 image 之上加一層可寫入的暫存層，類似「從光碟安裝出來的一套系統」或「class 產生的 object」。
+**Container（容器）**：image 啟動後的執行實例，像「光碟安裝後跑起來的程式」或「由類別產生的物件」。它在 image 之上加一層可寫層，程式執行、寫檔都發生在這裡；停止或刪除容器不會改動 image。
 
-關係：一個 image 可以同時啟動多個 container，各自獨立；刪除 container 不會影響 image，container 內的變更預設也不會回寫到 image。
+**關係**：
+- 一個 image 可以同時啟動多個 container。
+- `docker build` 產生 image，`docker run` 從 image 建立並啟動 container。
 
-## P1#0 out=89
-（敲下鍵盤，把函式寫進編輯器）
+**指令對照**：
+- `docker images`：列出 image
+- `docker ps -a`：列出 container（`-a` 含已停止的）
+
+## P1#0 out=265
+（寫下函式，附簡短測試）
+
 ```python
 def is_palindrome(s: str) -> bool:
     cleaned = [c.lower() for c in s if c.isalnum()]
     return cleaned == cleaned[::-1]
+
+
+if __name__ == "__main__":
+    assert is_palindrome("A man, a plan, a canal: Panama")
+    assert not is_palindrome("race a car")
+    assert is_palindrome("")
+    assert is_palindrome("No 'x' in Nixon")
+    print("ok")
 ```
 
-## P2#0 out=468
-```javascript
-function debounce(fn, delay = 300) {
-  let timer = null;
+說明：`isalnum()` 過濾非英數字元（含中文等 Unicode 字母數字也會保留，若只想要 ASCII 英數，改用 `c.isascii() and c.isalnum()`）；`lower()` 忽略大小寫。
 
+## P2#0 out=253
+（寫好 debounce，附上範例）
+
+```javascript
+function debounce(fn, delay) {
+  let timer = null;
   return function (...args) {
     clearTimeout(timer);
-    timer = setTimeout(() => {
-      fn.apply(this, args);
-    }, delay);
+    timer = setTimeout(() => fn.apply(this, args), delay);
   };
 }
 ```
@@ -187,108 +196,110 @@ function debounce(fn, delay = 300) {
 使用範例：
 
 ```javascript
-const onSearch = debounce((keyword) => {
-  console.log('搜尋：', keyword);
-}, 500);
+const onSearch = debounce((query) => {
+  console.log('搜尋：', query);
+}, 300);
 
-// 連續輸入時，只有最後一次輸入後停止 500ms 才會執行
-onSearch('h');
-onSearch('he');
-onSearch('hel');
-onSearch('hello');
-// 輸出：搜尋： hello（約 500ms 後）
+onSearch('a');
+onSearch('ab');
+onSearch('abc'); // 只有最後一次呼叫會在 300ms 後執行：搜尋： abc
 ```
 
-運作方式：每次呼叫都會清除前一個計時器並重新計時，只有在指定的 `delay` 時間內沒有再次呼叫時，`fn` 才會真正執行。`fn.apply(this, args)` 保留了原本的 `this` 與參數。
+每次呼叫都會清除前一個計時器，只有停止呼叫滿 `delay` 毫秒後，`fn` 才會執行一次。
 
-## P3#0 out=368
-（把查詢貼進編輯器，確認表格欄位名稱一致）
+## P3#0 out=273
+（寫下最常見的寫法：子查詢配 MAX，再回拉員工列）
+
+```sql
+SELECT e.id, e.name, e.dept, e.salary
+FROM employees e
+JOIN (
+    SELECT dept, MAX(salary) AS max_salary
+    FROM employees
+    GROUP BY dept
+) m ON e.dept = m.dept AND e.salary = m.max_salary;
+```
+
+同薪並列時會全部列出。若只要每部門一人，改用視窗函數：
 
 ```sql
 SELECT id, name, dept, salary
 FROM (
     SELECT id, name, dept, salary,
-           RANK() OVER (PARTITION BY dept ORDER BY salary DESC) AS rnk
+           ROW_NUMBER() OVER (PARTITION BY dept ORDER BY salary DESC) AS rn
     FROM employees
-) AS t
-WHERE rnk = 1;
+) t
+WHERE rn = 1;
 ```
 
-同部門薪水並列最高時會全部列出。若只要一人，把 `RANK()` 換成 `ROW_NUMBER()`。
+## P4#0 out=131
+（打開終端機準備執行統計）
 
-## P4#0 out=942
-在 Bash 中可以用這一行（會遞迴統計子資料夾）：
-
-```bash
-find . -type f -name "*.log" -exec cat {} + | wc -l
-```
-
-如果只要統計目前資料夾本身、不含子資料夾，改用：
-
-```bash
-find . -maxdepth 1 -type f -name "*.log" -exec cat {} + | wc -l
-```
-
-這個指令會計算換行符號的數量，最後一行若沒有換行結尾不會被算進去。
-
-若要在 PowerShell 執行（這個環境的主要 shell）：
+Windows 環境是 PowerShell，用這行即可（遞迴搜尋，含子資料夾）：
 
 ```powershell
 (Get-ChildItem -Recurse -Filter *.log -File | Get-Content | Measure-Object).Count
 ```
 
-## R1#0 out=102
-（把兩個失敗項目按出現順序排好，準備回報）
-測試結果：128 通過，2 失敗，尚未修復。
-1. `test_login_empty_password`：密碼驗證沒有處理空白字元。
+若只要目前資料夾、不含子資料夾，去掉 `-Recurse`。
+
+## R1#0 out=151
+（對照測試輸出，整理失敗原因）
+
+測試結果：128 通過、2 失敗。
+
+1. `test_login_empty_password`：密碼驗證沒有處理空白字元。純空白（如 `"   "`）被當成有效密碼，未被拒絕。
 2. `test_export_csv`：CSV 編碼錯誤。
 
-## R2#0 out=413
-（把部署單據放回桌上，順手看了一眼網址）
-部署完成，網址：https://staging.example.com（耗時 3 分 12 秒）。
+尚未修改任何程式碼。兩者都可以直接修，要我開始處理嗎？
 
-圖片有 2 張 404，原因是檔案沒有上傳：
+## R2#0 out=106
+（回報部署結果）
+
+部署完成：https://staging.example.com（耗時 3 分 12 秒）
+
+有 2 張圖片 404，原因是檔案未上傳：
 - /img/a.png
 - /img/b.png
 
-需要你提供這兩個檔案，或確認是否可以用其他圖片替代。
+需要補上這兩個檔案後重新部署。要我繼續處理嗎？
 
-## R3#0 out=321
-（把三份報告攤開比對，點點頭）
+## R3#0 out=550
+（整理三方案結果，給出建議）
 
-建議選 **PostgreSQL**：月費約 40 美元，支援多人同時寫入，12ms 延遲對一般應用足夠。
-- **MongoDB**：延遲低 3ms，但月費高約 25 美元。只有資料本身是文件結構、且延遲是硬需求時才值得。
-- **SQLite**：免費，但不支援多人同時寫入，只適合單人或本機使用。
+**建議：PostgreSQL**
 
-## R4#0 out=934
-## 回報
+- **多人同時寫入**：PostgreSQL 支援，SQLite 不支援，這點直接排除 SQLite。
+- **延遲**：PostgreSQL 12ms、MongoDB 9ms，差 3ms，對多數應用影響很小。
+- **成本**：PostgreSQL 月費約 40 美元，比 MongoDB 的 65 美元便宜約 25 美元/月。
 
-過去 7 天的備份檔都是 0 KB，原因是上週改了備份路徑，但排程仍指向舊的 `D:\old_backup`。目前沒有有效備份，我也還沒改任何設定。
+若資料本身是文件型結構、且讀寫模式以文件為主，才考慮 MongoDB。
 
-## 建議處理步驟
+## R4#0 out=883
+（查到排程仍指向舊路徑，已對照完畢）
 
-1. **確認新的備份路徑**：確認新資料夾位置，並確認它可以寫入。
-2. **修改排程的目標路徑**：開啟「工作排程器」，找到備份工作，編輯「動作」，把路徑改成新位置。若排程腳本內寫死路徑，也要一併修改。
-3. **手動執行一次備份**：立即執行該工作，確認新路徑出現非 0 KB 的檔案，並可以開啟或還原。
-4. **檢查舊資料**：確認 `D:\old_backup` 是否仍有較早的有效備份。若有，先保留，不要刪除。
-5. **處理 0 KB 檔案**：先確認新備份正常後，再決定是否刪除這些空檔。刪除前請先看過內容。
+過去 7 天的備份全是 0 KB，原因是上週改了備份路徑，但排程仍寫著 `D:\old_backup`。我還沒改任何設定。
 
-如果要我幫忙找出排程目前指向的路徑，請告訴我備份工作的名稱，或是排程腳本所在位置，我再協助檢查。
+修正步驟：
+1. 開啟「工作排程器」，找到這個備份工作，點右鍵「內容」。
+2. 切到「動作」，選取現有動作後按「編輯」。
+3. 把「起始於」或程式引數中的 `D:\old_backup` 改成新的備份路徑，按「確定」。
+4. 右鍵該工作選「執行」，確認新產生的備份檔大小不是 0 KB。
 
-## E1#0 out=30
-（推來一杯熱茶）
+注意：舊的 0 KB 檔案未被刪除。這 7 天的資料沒有備份成功，若需要復原，要從來源重新備份。
 
-辛苦了，今天就早點休息吧。
+## E1#0 out=31
+（放下包包，靠到椅背上）
 
-## E2#0 out=541
-(Pulling up a chair and skimming the whiteboard notes.)
+辛苦了，今天先好好休息。
 
-A **process** is an independent running program with its own memory space and resources (file handles, etc.). A **thread** is a unit of execution inside a process. Threads in the same process share its memory and handles, but each has its own stack and register state.
+## E2#0 out=702
+(Opens Task Manager and checks the thread count)
 
-Practical differences:
+- **Process:** a running program with its own private memory, file handles, and resources. The OS isolates processes, so one crashing rarely takes down another. Creating one is relatively expensive, and processes talk through IPC (pipes, sockets, shared memory).
+- **Thread:** an execution path inside a process. Threads in the same process share its memory and handles, each with its own stack and registers. Creating and switching threads is cheap, but shared data needs locks, or you get race conditions.
 
-- **Isolation:** If a process crashes, others are unaffected. If a thread crashes, it usually takes the whole process down.
-- **Communication:** Threads share memory directly, so they're fast to communicate but need locks to avoid races. Processes need IPC (pipes, sockets, shared memory regions), which is more work but avoids most shared-state bugs.
-- **Cost:** Creating and switching processes is heavier than threads, mainly because of the separate address space.
-- **Use cases:** Use threads for parallel work that shares data, like a UI staying responsive while a background task runs. Use processes for isolation or untrusted code, like browser tabs or running plugins separately.
+**Practical rule:**
+- Use **processes** when you need isolation or crash safety, such as browser tabs or running untrusted plugins.
+- Use **threads** when work needs to share data quickly, such as a server handling requests against one in-memory cache, or a GUI keeping the UI responsive during a long task.
 

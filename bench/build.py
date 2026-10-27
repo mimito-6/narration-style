@@ -36,7 +36,7 @@ for k,v in cat.items():
 html=f"""<!doctype html><html lang="zh-Hant"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>旁白體 narration-style</title>
 <style>body{{font-family:system-ui,"Noto Sans TC",sans-serif;max-width:760px;margin:2rem auto;padding:0 1rem;color:#2b2a27;background:#faf8f3}}h1{{margin-bottom:.2em}}.big{{font-size:3rem;font-weight:700;color:#d9822b}}.card{{background:#fff;border:1px solid #e6e1d4;border-radius:12px;padding:1rem 1.2rem;margin:1rem 0}}pre{{background:#f1ede2;padding:.8rem;border-radius:8px;white-space:pre-wrap}}.row{{display:flex;align-items:center;gap:.5rem;margin:3px 0}}.l{{width:5.5em;font-size:.85rem}}.b{{height:14px;border-radius:3px}}.v{{font-size:.8rem;color:#777}}table{{border-collapse:collapse;width:100%;font-size:.85rem}}td,th{{border-bottom:1px solid #e6e1d4;padding:4px 6px;text-align:right}}td:first-child,th:first-child,td:nth-child(2),th:nth-child(2){{text-align:left}}.leg span{{display:inline-block;margin-right:1em;font-size:.85rem}}</style>
 <h1>旁白體 narration-style</h1><p>用「動作」取代客套與報備，只留必要資訊與下一步。</p>
-<div class="card"><div class="big">輸出 −{pct(tot[2],tot[0])}%</div>平均每題輸出 {tot[0]/n:.0f} → {tot[2]/n:.0f} tokens（Haiku 5.5，{n} 題 × 2 輪）。<br>代價：skill 每次多載入約 {in_extra:.0f} input tokens；單次呼叫總費用 {pct(cost[2],cost[0])}% 差距。純指令「請簡潔」輸出省 {pct(tot[1],tot[0])}%，但沒有旁白風格。</div>
+<div class="card"><div class="big">輸出 −{pct(tot[2],tot[0])}%</div>平均每題輸出 {tot[0]/n:.0f} → {tot[2]/n:.0f} tokens（Haiku 5.5，{n} 題 × 2 輪）。<br>代價：skill 每次多載入約 {in_extra:.0f} input tokens；單次呼叫總費用省 {pct(cost[2],cost[0])}%（已含 skill 的 input）。純指令「請簡潔」輸出省 {pct(tot[1],tot[0])}%，但沒有旁白風格。</div>
 <div class="card"><b>長這樣</b><pre>你：還是登不進去欸
 （抓起外套衝回座位，重新打開電腦）
 原因是密碼驗證沒處理空白字元，已補上，現在沒問題了。

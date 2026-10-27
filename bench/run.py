@@ -2,7 +2,7 @@ import json, subprocess, sys, os, concurrent.futures as cf
 here = os.path.dirname(os.path.abspath(__file__))
 import shutil
 CLAUDE = shutil.which("claude")
-skill = open(os.path.join(here, "..", "skill", "narration-style", "SKILL.md"), encoding="utf-8").read()
+skill = open(os.environ.get("SKILL_PATH", os.path.join(here, "..", "skill", "narration-style", "SKILL.md")), encoding="utf-8").read()
 qs = json.load(open(os.path.join(here, "questions.json"), encoding="utf-8"))
 MODEL = "haiku"
 cwd = os.environ.get("NB_CWD", "C:/Users/mimito/AppData/Local/Temp/nb")
@@ -26,5 +26,5 @@ def run(item):
                 output=u["output_tokens"], result=d["result"], cost=d["total_cost_usd"])
 jobs = [(x["id"]+"#"+str(r), c, x["q"]) for r in range(ROUNDS) for x in qs for c in conds]
 with cf.ThreadPoolExecutor(4) as ex: out = list(ex.map(run, jobs))
-json.dump(out, open(os.path.join(here, "results.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+json.dump(out, open(os.path.join(here, os.environ.get("OUT","results.json")), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 print(sum(1 for o in out if "error" in o), "errors of", len(out))

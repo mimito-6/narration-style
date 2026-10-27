@@ -11,6 +11,7 @@
 （默默把一杯熱茶推到你桌上）
 ```
 
+- 語言跟隨使用者（中文、英文、其他語言皆可）。
 - Skill：`skill/narration-style/SKILL.md`（複製到專案 `.claude/skills/` 使用）
-- 實測：輸出 token 約 −26%，但 skill 本身多 ~436 input；詳見 [REPORT.md](REPORT.md) 與 `docs/index.html`
+- 實測（Haiku 5.5、22 題）：輸出 token **約 −42%**，skill 多載入約 294 input tokens，單次呼叫費用 −16%；安慰類與英文省得少。詳見 [REPORT.md](REPORT.md) 與 `docs/index.html`
 - 原始數據與腳本：`bench/`

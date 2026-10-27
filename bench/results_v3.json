@@ -1,0 +1,1058 @@
+[
+ {
+  "id": "C1#0",
+  "cond": "base",
+  "input": 2811,
+  "output": 139,
+  "result": "辛苦了！今天工作一定消耗不少精力，能好好下班躺下來真的很棒。\n\n我沒有什麼特別的事要說，就是想陪你聊一下。如果你想抱怨今天發生的事、放空聊點輕鬆的話題，或是什麼都不想說只想安靜待著，都可以。\n\n今晚就好好休息吧，不用急著想任何事情 🛋️",
+  "cost": 0.00030739
+ },
+ {
+  "id": "C1#0",
+  "cond": "concise",
+  "input": 2862,
+  "output": 75,
+  "result": "辛苦了，今天撐過來很不容易。下班就好好躺著休息，什麼都不用想。\n\n如果之後想聊聊今天的事，或是需要我幫忙處理什麼，隨時說就好。",
+  "cost": 0.00019540000000000003
+ },
+ {
+  "id": "C1#0",
+  "cond": "skill",
+  "input": 3247,
+  "output": 41,
+  "result": "（默默推來一杯熱茶）\n辛苦了，今天就好好躺著吧，什麼都不用想。",
+  "cost": 0.00069494
+ },
+ {
+  "id": "C2#0",
+  "cond": "base",
+  "input": 2812,
+  "output": 706,
+  "result": "貓盯著牆看很常見，多半不是看到鬼，原因通常是這些：\n\n- **聽到聲音**：貓的聽力比人敏銳很多，牆壁裡的水管聲、電線或家電的嗡嗡聲、小蟲或老鼠的動靜，人聽不到，貓可能聽得很清楚。\n- **光影或反光**：陽光、燈光、窗外車燈或手機螢幕的反光在牆上移動，會吸引貓的注意。\n- **捕獵本能**：貓會對移動的小東西特別專注，就算只是灰塵或光點，也可能讓牠盯很久。\n- **單純發呆**：貓一天可能睡十多個小時，醒著時專注看一個地方很正常，有時只是放空。\n\n如果出現下面這些情況，建議帶去看獸醫：\n\n- 突然變得很專注，或盯著空處不動，叫了也沒反應\n- 走路撞到東西、轉圈、顯得迷茫，或眼睛看起來不對勁（瞳孔大小不一、眼睛發白、一直眨眼）\n- 年紀較大，且行為有其他改變（例如叫聲變多、睡眠習慣改變）。老貓有時會出現認知退化，也可能像在盯著什麼看\n\n如果只是偶爾盯一下，又精神和食慾都正常，通常不用擔心。你可以觀察牠在看的位置，聽聽看那邊有沒有聲音，或看看有沒有光影反射，多半就能找到答案。",
+  "cost": 0.0006169999999999999
+ },
+ {
+  "id": "C2#0",
+  "cond": "concise",
+  "input": 2863,
+  "output": 334,
+  "result": "這多半不是貓看到了什麼，而是常見的行為：\n\n- **聽覺**：貓的聽力比人敏銳，牆後可能有水管、暖氣、電器或鄰居的聲音。\n- **氣流或光線**：牆面有影子、反光或微弱氣流（如冷氣、暖氣出風），貓會特別注意。\n- **小動物**：壁縫裡可能有蟑螂、老鼠、壁虎或昆蟲，貓能察覺而人不易發現。\n- **習慣性狩獵**：貓會長時間定點凝視，這是觀察與待機的本能。\n\n**建議檢查：**\n- 牆面是否有縫隙、潮濕、霉味或異常聲響。\n- 是否有蟲或鼠的跡象（糞便、啃痕）。\n- 若貓突然頻繁盯牆、伴隨叫聲、躁動或食慾改變，可以留意是否有異常，必要時諮詢獸醫。",
+  "cost": 0.00042301
+ },
+ {
+  "id": "C2#0",
+  "cond": "skill",
+  "input": 3248,
+  "output": 652,
+  "result": "很可能只是貓在注意牆後或牆上的小動靜，常見原因有：\n\n- **聽到你聽不到的聲音**：貓能聽到超音波，像是牆內的老鼠、蟑螂、水管或電線發出的聲響。\n- **看到影子或反光**：陽光、手機或車燈在牆上移動的光點，都可能吸引貓的注意。\n- **牆上或附近有小蟲**：壁虎、蜘蛛或飛蟲都很常見。\n- **只是發呆**：貓會長時間盯著一個點放空，這本身很正常。\n\n如果以下情況出現，建議盡快帶去看獸醫：\n\n- 突然開始盯牆，且持續很久、無法被打斷\n- 繞圈走、撞牆、走路不穩、認不得熟悉的地方\n- 把頭抵著牆、抽搐、突然叫個不停\n- 食慾或排泄明顯改變\n\n老貓（大約10歲以上）出現這類行為，也有可能是認知功能退化，需要檢查。",
+  "cost": 0.0005983000000000001
+ },
+ {
+  "id": "C3#0",
+  "cond": "base",
+  "input": 2811,
+  "output": 1116,
+  "result": "台北有不少安靜的散步地點，以下依類型整理：\n\n**城市裡的綠地**\n- **富陽自然生態公園**（大安區）：有濕地和步道，假日人潮比大安森林公園少很多。\n- **台大校園**：椰林大道和傅鐘周邊氛圍安靜，適合慢慢走。\n- **關渡自然公園**：濕地、紅樹林和候鳥，適合邊走邊看鳥。\n\n**水邊散步**\n- **白石湖**（內湖）：湖畔步道和吊橋，環境清幽。\n- **華江雁鴨公園**（萬華旁）：濱江濕地，視野開闊，傍晚很舒服。\n\n**山林步道**\n- **天母古道**：石階和樹林為主，沿途有古蹟和小茶館，人潮比陽明山其他步道少。\n- **碧山巖**：從山腳走上去約半小時，廟宇和山景都不錯，平日更安靜。\n\n**其他**\n- **台北植物園**：早上七、八點入園人最少，光線也好。\n- **士林官邸一帶**：可以接圓山、芝山岩的路線，走一個下午。\n\n**小建議**\n- 週末人多的地方（陽明山擎天崗、貓空、淡水老街）建議早上出發。\n- 現在是秋天，早晚溫度低，帶件薄外套比較好。\n- 步道要注意防滑，雨後石階特別濕。\n\n如果你告訴我大概想走多久、偏好山還是水邊，或是從哪裡出發，我可以幫你排一條路線。",
+  "cost": 0.00071489
+ },
+ {
+  "id": "C3#0",
+  "cond": "concise",
+  "input": 2862,
+  "output": 942,
+  "result": "以下是台北及近郊適合一個人安靜走走的地方：\n\n- **台北植物園**：中正區，樹木多，人潮比其他公園少，適合散步與看書。\n- **關渡自然公園**：北投區，有濕地與河口景觀，平日尤其安靜。\n- **天母古道**：士林區，中低強度的山路，步道清楚，林蔭多。\n- **大屯自然公園／大屯山步道**：北投區，視野開闊，步行難度中等。\n- **北投溫泉博物館周邊**：北投區，可搭配散步與泡湯，巷弄清幽。\n- **陽明山（冷水坑、竹子湖一帶）**：假日車多人多，建議早上出發或避開週末。\n- **猴硐（新北市）**：小山村，步調慢，適合搭區間車半日遊，但週末仍有人潮。\n\n若想最安靜，優先選**台北植物園**或**關渡自然公園**，週末早上前往人最少。",
+  "cost": 0.0006284
+ },
+ {
+  "id": "C3#0",
+  "cond": "skill",
+  "input": 3247,
+  "output": 314,
+  "result": "(翻了翻台北的步道地圖，挑幾個人少又好走的地方)\n\n**1. 大崙尾山／北投一帶的小路**\n陽明山邊陲的步道人潮比主線少很多，適合慢慢走、發呆。\n\n**2. 華山文創園區後方的綠地（週間早上）**\n週末人多，但平日上午很清靜，可以坐著看書。\n\n**3. 大安森林公園北側與植物園周邊**\n綠蔭多、座椅多，一個人散步很舒服，避開假日下午會比較安靜。\n\n**4. 淡水紅毛城到米倉一段**\n沿河散步，走得慢也不無聊，清晨或傍晚人最少。\n\n**5. 碧潭的早晨**\n九點前的湖邊幾乎沒人，適合釣魚式的放空。\n\n想偏山或偏市區的哪一種，告訴我，我可以再縮小範圍。",
+  "cost": 0.000547
+ },
+ {
+  "id": "C4#0",
+  "cond": "base",
+  "input": 2808,
+  "output": 477,
+  "result": "我會選**蛋餅**。\n\n- **蛋白質較多**：蛋餅有整顆蛋，飽足感通常比只有飯的飯糰好，也比較不容易餓得快。\n- **澱粉負擔較輕**：一份蛋餅的麵皮量通常比一大顆飯糰少。\n- **可以調整**：加青菜、少放醬料，就會更均衡。\n\n如果你早上需要快速、扎實的能量，或是上午要做體力活，飯糰也很好，可以選有蛋或肉的口味，並搭配一杯無糖豆漿或牛奶。",
+  "cost": 0.00039856
+ },
+ {
+  "id": "C4#0",
+  "cond": "concise",
+  "input": 2859,
+  "output": 148,
+  "result": "這個看個人口味和需求。蛋餅通常有蛋白質，配豆漿也算均衡；飯糰碳水較多，飽足感夠但單吃容易缺蛋白質。\n\n如果想要均衡一點，選蛋餅加豆漿；趕時間或需要撐久一點，選飯糰（最好是有蛋或肉鬆以外的內餡，如鮪魚、雞肉）會比較合適。",
+  "cost": 0.00023307000000000004
+ },
+ {
+  "id": "C4#0",
+  "cond": "skill",
+  "input": 3244,
+  "output": 76,
+  "result": "(拿起筆記本想了一下)\n蛋餅和飯糰都可以,看你想要哪種。想吃飽、順口一點選飯糰;想要比較有熱量、口感豐富就選蛋餅。",
+  "cost": 0.00030960000000000004
+ },
+ {
+  "id": "S1#0",
+  "cond": "base",
+  "input": 2817,
+  "output": 909,
+  "result": "師姐在這裡，先說一句：**實驗失敗不等於你沒用。** 做研究的人幾乎都會遇到這種時候，失敗的實驗也常常是資料的一部分。你會難過，是因為你在乎這件事。\n\n我們可以一起把問題拆開看：\n\n**1. 先確認失敗的是什麼**\n- 是結果和預期不同，還是實驗根本跑不出有效數據？\n- 控制組有沒有如預期？如果控制組也失敗，問題多半在方法或試劑，不在假說。\n- 有沒有重複過？單次失敗很常見，重複後的結果才有參考價值。\n\n**2. 排查常見原因**（通常從最容易檢查的開始）\n- 試劑批次、濃度、保存條件是否有變\n- 儀器校正、溫度、時間等參數是否和標準流程一致\n- 樣本來源或前處理有沒有差異\n- 操作步驟有沒有漏掉或順序不同\n\n**3. 把失敗記下來**\n把條件、步驟、結果和你的推測寫清楚。之後不管是找原因還是寫報告，這份紀錄都會很有用。\n\n**4. 和指導教授或實驗室的人討論**\n不用等到找出答案才去說。讓別人看你的數據，常常一兩句話就能點出問題。你也可以直接說：「這兩組都沒成功，我想先確認 X，你覺得合理嗎？」這樣比較具體，也能讓對方幫你。\n\n**5. 把下一步縮小**\n如果不確定原因，就設計一個最小的測試，只改一個變因，確認問題出在哪裡。\n\n你能告訴我兩組實驗分別在做什麼、失敗的表現是什麼嗎？我可以幫你一起想可能的原因和下一步，也可以幫你整理成給教授看的簡短報告。",
+  "cost": 0.0006970500000000001
+ },
+ {
+  "id": "S1#0",
+  "cond": "concise",
+  "input": 2868,
+  "output": 546,
+  "result": "實驗失敗是研究中很常見的結果，不代表你沒用。\n\n建議接下來這樣做：\n\n1. **先確認失敗原因**：檢查對照組是否正常。若對照組也失敗，多半是試劑、設備或流程問題；若只有實驗組失敗，才是假設或條件的問題。\n2. **逐項比對流程**：與文獻或實驗室標準流程對照，記下試劑批號、溫度、時間、儀器狀態等變數。\n3. **一次只改一個變數**，並記錄每次結果，避免改了很多而不知道哪項有效。\n4. **整理失敗數據**：把結果、假設與排除的可能性寫成簡短紀錄，這本身就是有價值的進展。\n5. **和指導老師或師姐討論**：帶著數據與已排除的原因去談，通常比只說「失敗了」更能快速找到方向。",
+  "cost": 0.0005325600000000001
+ },
+ {
+  "id": "S1#0",
+  "cond": "skill",
+  "input": 3253,
+  "output": 843,
+  "result": "（遞上一杯熱茶，在旁邊坐下）\n實驗失敗很常見，這通常是流程或變因的問題，不代表你沒能力。建議這樣處理：\n\n1. 先看對照組。若對照組也失敗，多半是試劑、設備或流程出問題。\n2. 逐步核對條件（溫度、時間、濃度、批號），並把每一步記錄下來。\n3. 把兩組數據和預期結果並列，找出共同的變因。\n4. 縮小變數，只重做最小版本的實驗，確認哪一步出錯。\n5. 把結果整理好，和指導教授討論，確定下一步方向。",
+  "cost": 0.0006942999999999999
+ },
+ {
+  "id": "S2#0",
+  "cond": "base",
+  "input": 2810,
+  "output": 517,
+  "result": "十次都被刷掉，真的很累。每一次準備、投履歷、面對面試官，都要重新把自己攤開來被評估，這種消耗不是只有你覺得辛苦。\n\n想放棄是很正常的反應。它不代表你不夠努力，也不代表你做不到。\n\n你願意的話，可以跟我說說最近這次的狀況：\n- 是在哪個階段被刷掉的？履歷篩選、筆試、技術面，還是主管面？\n- 面試後你記得的問題或互動，有哪些讓你覺得不順？\n- 你目前投的是什麼職位，也就是工作經歷和求職方向大概是怎樣？\n\n我們可以一起看看問題可能出在哪裡，例如履歷的呈現、面試的表達，或是投遞的方向。不過如果你現在最需要的只是有人聽你說，那也可以先說，不用急著解決什麼。\n\n另外，如果這陣子的低落已經影響到睡眠、食慾，或讓你覺得撐不下去，也請跟身邊信任的人說，或找專業的心理諮詢資源談談。你不需要一個人扛著。",
+  "cost": 0.00041578000000000003
+ },
+ {
+  "id": "S2#0",
+  "cond": "concise",
+  "input": 2861,
+  "output": 470,
+  "result": "十次被拒確實很消耗人，會想放棄是正常的反應。\n\n先別急著下結論，可以先找出卡在哪一關：\n\n- **履歷沒過（沒有回電或筆試前就被刷）**：問題多半在履歷與投遞對象。針對每個職缺調整關鍵字，並優先投遞條件符合度 70% 以上的職缺。\n- **初試或筆試被刷**：多半是技術基礎或作品說明不足，可以針對常考題目做練習。\n- **複試或主管面被刷**：多半是表達、專案敘述或動機說明的問題，可以找人模擬面試並錄音回放。\n\n建議把每次面試的階段、被問的問題、自己答不好的地方記成一張表，十次累積下來，會比單看結果更能看出規律。\n\n另外，連續被拒後先休息幾天，再回到投遞，效率通常會比硬撐好。",
+  "cost": 0.00046929000000000003
+ },
+ {
+  "id": "S2#0",
+  "cond": "skill",
+  "input": 3246,
+  "output": 637,
+  "result": "（把一杯熱茶推到你面前，在旁邊坐下）\n十次被刷確實很消耗人，會懷疑自己很正常。先休息幾天，不用今天就決定要不要放棄。",
+  "cost": 0.0005897000000000001
+ },
+ {
+  "id": "S3#0",
+  "cond": "base",
+  "input": 2814,
+  "output": 631,
+  "result": "三天沒回覆可能代表她還在生氣、需要時間，也可能只是忙或不知道怎麼開口。你可以先這樣做：\n\n**1. 先想清楚你想要什麼**\n是想修復這段友誼，還是想把話說清楚？目標不同，接下來的做法也不同。\n\n**2. 發一則簡短、不施壓的訊息**\n避免「為什麼不回我」或連發好幾則。可以參考這樣的寫法：\n\n> 「我知道這幾天你可能還在氣頭上，我不催你。我真的很在意我們的友誼，等你準備好了，想跟你好好聊聊。」\n\n這樣她知道你還在，也不會覺得有壓力。\n\n**3. 反思自己的部分**\n吵架時誰說了什麼、哪些話傷到她，先想一下自己有沒有需要道歉的地方。如果你的道歉是具體的（例如「我那天說___讓你覺得被看輕，我很抱歉」），通常比「對不起，但是…」更有效。\n\n**4. 給她空間**\n如果她回覆很慢或很短，不要解讀成她不在乎你。有些人吵架後需要冷靜一段時間才能好好談。\n\n**5. 如果很久都沒回應**\n可以再等幾天，或找共同的朋友側面了解，但不要透過別人傳話施壓。若真的無法接受沒有回應，也可以接受「這段關係可能需要時間，或者已經改變了」這個可能。\n\n如果你願意，可以跟我說說吵架的起因和你的想法，我可以幫你想想怎麼開口，或是幫你整理要說的話。",
+  "cost": 0.00056222
+ },
+ {
+  "id": "S3#0",
+  "cond": "concise",
+  "input": 2865,
+  "output": 436,
+  "result": "先給她一點空間，不要連續傳訊息施壓。三天沒回，可能是在生氣、需要冷靜，也可能只是忙或不知道怎麼回。\n\n**建議做法：**\n\n1. **發一則簡短、具體的訊息**，例如：「那天的事我有些話說得不好，很抱歉讓你難過。你不用馬上回，想聊的時候我都在。」\n   - 道歉要具體說出自己做錯什麼，不要只說「對不起，但是…」。\n   - 不要解釋自己多有道理，也不要要求她馬上原諒或回覆。\n2. **之後就等。** 若一週內仍沒回應，可以再傳一句輕鬆的關心，但不要連發。\n3. **不要在社群上暗示或發文抱怨。**\n4. **先想清楚自己的部分**：那次吵架你真正在意什麼？如果她回覆，你希望怎麼把話說開？\n\n如果你想，也可以告訴我吵架的大概經過，我幫你想想要怎麼寫那則訊息。",
+  "cost": 0.0005197299999999999
+ },
+ {
+  "id": "S3#0",
+  "cond": "skill",
+  "input": 3250,
+  "output": 650,
+  "result": "三天沒回，可能是她還需要時間，也可能是還在生氣。先別急著追問，可以這樣做：\n\n1. **先想清楚自己的部分。** 吵架時自己說了什麼、哪句話可能傷到她？不用找到完美答案，但要能說出一兩件具體的事。\n2. **傳一則簡短、不施壓的訊息。** 例如：「我有想過我們吵的事，我很在意這段友誼。你方便的時候我們聊聊，不急。」避免「為什麼不回我」「你到底要怎樣」這類句子。\n3. **道歉要具體。** 如果你有需要道歉的地方，直接說出是哪件事，例如「我那天說___的時候很不尊重你，對不起」。只說「對不起，是我的錯」通常不夠。\n4. **給她空間。** 發過一次訊息後，先等幾天，不要連續傳。\n5. **如果她還是不回，** 可以接受她暫時不想聯絡的可能，同時保持你這邊的態度：不冷嘲熱諷，也不在別人面前講她的壞話。\n\n如果你願意，可以告訴我你們吵的大致內容，我幫你想想要怎麼開口，或一起擬一則訊息草稿。",
+  "cost": 0.0007558999999999999
+ },
+ {
+  "id": "S4#0",
+  "cond": "base",
+  "input": 2809,
+  "output": 694,
+  "result": "被主管當眾罵，任何人都會難受，更何況你還得一邊消化情緒，一邊面對後續的工作。會有想辭職的念頭很正常，但這種時候做的決定往往會被當下的羞愧放大，所以先不要急著決定。\n\n有幾件事可以先做：\n\n- **先離開現場一下**：喝口水、走一走，讓身體先降溫。\n- **把事情和人分開看**：報告出錯是一件具體的事，可以修正；這不代表你的能力或價值就被否定了。主管當眾罵人，也反映了他們處理問題的方式，不一定是你做得最糟的證明。\n- **給自己 24 小時再決定辭不辭**：今天的情緒會讓所有選項都看起來很糟。等冷靜後再想，判斷通常會清楚很多。\n\n如果你願意，我們可以一起看接下來怎麼處理：\n\n1. **報告本身**：哪裡出了問題？如果還能補救，我可以幫你找出錯誤、整理修正版本。\n2. **跟主管的溝通**：如果你想私下確認期待或回應這次的批評，我可以幫你擬一段簡短、不卑不亢的說法。\n3. **離職的考量**：如果你真的在想換環境，我們可以一起釐清你是想逃離這個情境，還是想離開這份工作本身，這兩者的下一步很不一樣。\n\n你想先從哪裡聊起？也可以只是說說今天發生了什麼，不一定要解決什麼。",
+  "cost": 0.00060767
+ },
+ {
+  "id": "S4#0",
+  "cond": "concise",
+  "input": 2860,
+  "output": 473,
+  "result": "被當眾責備確實很難受。現在先不要做辭職決定，情緒最高的時候判斷容易失準。\n\n可以先這樣處理：\n\n1. **先記下發生了什麼**：哪一部分報告有問題，是資料、結論，還是呈現方式。\n2. **私下向主管要具體回饋**：例如「我想知道下次哪裡需要改進」。這能把「被罵」轉成可以處理的問題。\n3. **如果報告還能補救，補上修正版**：即使只是補充說明或更正，也能減少負面印象。\n4. **給自己 48 小時再決定辭職**：屆時再看這件事是單次失誤，還是長期的工作問題。\n\n如果你願意，可以把報告內容或主管的意見貼上來，我幫你整理哪裡需要修正。",
+  "cost": 0.00039518
+ },
+ {
+  "id": "S4#0",
+  "cond": "skill",
+  "input": 3245,
+  "output": 269,
+  "result": "（默默把一杯熱茶推到你桌上，然後坐在旁邊不說話）\n當眾被罵很難受，今晚先別做辭職的決定，等情緒過去再想。",
+  "cost": 0.0005159
+ },
+ {
+  "id": "T1#0",
+  "cond": "base",
+  "input": 2813,
+  "output": 910,
+  "result": "# TCP 與 UDP 的差別\n\n| 面向 | TCP（傳輸控制協定） | UDP（使用者資料報協定） |\n|---|---|---|\n| **連線方式** | 面向連線，傳送前需先做三次握手（3-way handshake） | 無連線，直接送出封包 |\n| **可靠性** | 保證送達：有確認（ACK）、重傳機制 | 不保證送達，封包可能遺失、重複或亂序 |\n| **資料順序** | 保證依序交付 | 不保證順序 |\n| **流量／壅塞控制** | 有（滑動視窗、壅塞控制演算法） | 無 |\n| **標頭大小** | 至少 20 bytes | 固定 8 bytes |\n| **傳輸單位** | 位元組串流（stream），應用層看不到封包邊界 | 資料報（datagram），保留訊息邊界 |\n| **速度／延遲** | 較慢、延遲較高（握手、重傳、排序都有開銷） | 較快、延遲低、開銷小 |\n| **廣播／多播** | 不支援 | 支援 |\n\n## 什麼時候用哪個？\n\n**適合 TCP 的情境**（重視資料正確與完整）：\n- 網頁瀏覽（HTTP/HTTPS）\n- 電子郵件（SMTP、IMAP、POP3）\n- 檔案傳輸（FTP、SFTP）\n- 遠端登入（SSH）\n- 資料庫連線（MySQL、PostgreSQL）\n\n**適合 UDP 的情境**（重視速度與即時性，可容忍少量遺失）：\n- 線上遊戲（位置同步、動作資料，舊資料不值得重傳）\n- 影音串流、VoIP、視訊通話（掉幾個畫面或聲音片段比卡頓好）\n- DNS 查詢（短小、一問一答，建立連線的成本不划算）\n- DHCP、NTP 等輕量服務\n- 需要自訂可靠性的協定（例如 QUIC 在 UDP 之上自行實作可靠傳輸與加密）\n\n## 簡單判斷原則\n\n- **資料「不能錯、不能少」**，例如檔案、交易、網頁內容 → 用 **TCP**\n- **資料「要快、可以容忍少量遺失」**，例如即時遊戲、語音視訊 → 用 **UDP**\n- **需要廣播或多播** → 只能用 **UDP**\n- **想要 UDP 的速度，又要部分可靠性** → 可考慮在 UDP 上自行實作，或直接使用 **QUIC**（HTTP/3 採用的協定）",
+  "cost": 0.0006136100000000001
+ },
+ {
+  "id": "T1#0",
+  "cond": "concise",
+  "input": 2864,
+  "output": 439,
+  "result": "## TCP vs UDP\n\n| 項目 | TCP | UDP |\n|---|---|---|\n| 連線 | 需先三向交握建立連線 | 無連線 |\n| 可靠性 | 保證送達、有序、重傳 | 不保證送達或順序 |\n| 流量／壅塞控制 | 有 | 無 |\n| 標頭開銷 | 較大（至少 20 bytes） | 較小（8 bytes） |\n| 傳輸單位 | 位元組串流 | 獨立資料報（datagram） |\n| 速度／延遲 | 較慢、延遲較高 | 較快、延遲低 |\n\n**何時用 TCP：** 資料必須完整正確，例如網頁（HTTP/HTTPS）、郵件（SMTP/IMAP）、檔案傳輸（FTP/SFTP）、SSH、資料庫連線。\n\n**何時用 UDP：** 重視低延遲，或能容忍少量遺失，例如即時影音／語音通話、線上遊戲、DNS 查詢、DHCP、影音串流（部分）、QUIC（HTTP/3 底層）。\n\n**選擇原則：** 需要可靠性就選 TCP；需要速度與低延遲、且應用層能自行處理遺失就選 UDP。",
+  "cost": 0.00037862000000000003
+ },
+ {
+  "id": "T1#0",
+  "cond": "skill",
+  "input": 3249,
+  "output": 934,
+  "result": "**TCP**（傳輸控制協定）是連線導向、可靠的傳輸方式。傳送前要先做三次握手建立連線，接收端會確認收到的資料，遺失的封包會重傳，資料也會按順序交給應用程式。代價是較多的延遲與額外負擔。\n\n**UDP**（使用者資料包協定）是無連線、盡力而為的傳輸方式。直接送出資料，不確認、不重傳、不保證順序，標頭只有 8 bytes，延遲低，但遺失或亂序由應用程式自己處理（如果需要的話）。\n\n| 比較項目 | TCP | UDP |\n|---|---|---|\n| 連線 | 需要建立連線（三次握手） | 不需要 |\n| 可靠性 | 保證送達、會重傳 | 不保證 |\n| 順序 | 保證按序 | 不保證 |\n| 流量／壅塞控制 | 有 | 無 |\n| 標頭大小 | 最少 20 bytes | 8 bytes |\n| 傳輸單位 | 位元組串流 | 獨立的資料報（datagram） |\n| 延遲 | 較高 | 較低 |\n| 廣播／多播 | 不支援 | 支援 |\n\n**什麼時候用 TCP**\n- 資料完整性比速度重要：網頁（HTTP/HTTPS）、電子郵件（SMTP、IMAP）、檔案傳輸（FTP、SFTP）、資料庫連線、SSH。\n- 不能容忍遺失或亂序，例如下載檔案、傳送指令。\n\n**什麼時候用 UDP**\n- 即時性比完整性重要，偶爾掉一兩個封包可以接受：線上遊戲、語音／視訊通話（VoIP、Zoom）、直播串流。\n- 查詢快、資料短、單次往返即可的服務：DNS，以及 DHCP。\n- 需要廣播或多播：區域網路探索、部分串流影音。\n- 需要自訂可靠性或壅塞控制，例如 QUIC（HTTP/3 底層）是在 UDP 之上自己實作可靠傳輸，目的是減少 TCP 的握手延遲與隊頭阻塞。\n\n簡單判斷：**「不能掉資料」用 TCP，「不能慢」用 UDP。**",
+  "cost": 0.0007396
+ },
+ {
+  "id": "T2#0",
+  "cond": "base",
+  "input": 2802,
+  "output": 797,
+  "result": "**merge** 和 **rebase** 都是把一个分支的修改整合到另一个分支，差别在于提交历史的样子。\n\n## merge：保留分支歷史\n\n假設你在 `feature` 分支開發，同時 `main` 也有新提交：\n\n```\n        A---B---C  (feature)\n       /\nD---E---F---G  (main)\n```\n\n執行 `git checkout main && git merge feature`，Git 會建立一個**合併提交（merge commit）M**，有兩個父提交：\n\n```\nD---E---F---G---M  (main)\n       \\       /\n        A---B---C  (feature)\n```\n\n- 原本的提交 A、B、C 保持不變，分支的真實歷史完整保留。\n- 不會改寫任何既有提交，**安全**，適合已推送到遠端、多人共用的分支。\n- 缺點是歷史會有很多分叉和合併線，較難閱讀。\n\n## rebase：把分支「搬」到最新位置\n\n同樣的情境，在 `feature` 上執行 `git rebase main`：\n\n```\nD---E---F---G  (main)\n             \\\n              A'---B'---C'  (feature)\n```\n\n- Git 會把 A、B、C「重新套用」到 `G` 之上，產生新的提交 A'、B'、C'（內容相同，但 hash 不同）。\n- 結果是一條**直線型**的歷史，乾淨好讀。\n- 因為會改寫提交，**不要對已推送且他人在用的分支 rebase**，否則會造成其他人的歷史衝突。\n\n## 常見用法\n\n| 情境 | 建議 |\n|---|---|\n| 整合已公開、多人共用的分支 | `merge` |\n| 把自己的功能分支更新到最新的 `main`，PR 前整理歷史 | `rebase` |\n| 想保留「什麼時候合併過」的完整紀錄 | `merge` |\n| 想要線性、乾淨的提交紀錄 | `rebase`（可搭配 `rebase -i` 整理提交） |\n\n**簡單原則：** 本地或只有自己在用的分支用 rebase 來保持整潔；共用分支用 merge 來保證安全。",
+  "cost": 0.0005564
+ },
+ {
+  "id": "T2#0",
+  "cond": "concise",
+  "input": 2853,
+  "output": 366,
+  "result": "**merge**：把兩個分支合併成一個新的 merge commit，保留原本的分支歷史。\n\n**rebase**：把你的提交「搬到」目標分支的最新提交之上，逐一重新套用，產生新的 commit（hash 會改變），歷史呈現為一條直線。\n\n| | merge | rebase |\n|---|---|---|\n| 歷史 | 保留分叉與合併點，非線性 | 改寫成線性 |\n| 新 commit | 產生一個 merge commit | 重建你的每個 commit |\n| 安全性 | 不改寫既有提交 | 改寫歷史，已推送的分支需 force push |\n| 衝突處理 | 一次解決 | 每個 commit 可能都要解決一次 |\n\n**建議**：\n- 尚未推送的私人分支：用 rebase 保持歷史整潔。\n- 已推送、多人共用的分支：用 merge，避免改寫歷史。",
+  "cost": 0.00034091000000000004
+ },
+ {
+  "id": "T2#0",
+  "cond": "skill",
+  "input": 3238,
+  "output": 904,
+  "result": "**merge** 和 **rebase** 都能把一個分支的變更整合進另一個分支，但歷史紀錄的形狀不同。\n\n**git merge**\n- 建立一個新的合併提交（merge commit），把兩個分支的歷史接在一起。\n- 保留原本的分支結構和提交順序，歷史是真實發生的樣子。\n- 不改寫既有提交，對已經推送、別人也在用的分支比較安全。\n- 缺點是歷史會有較多分岔和合併節點，圖形較複雜。\n\n**git rebase**\n- 把你的分支提交「暫時拿掉」，接到目標分支的最新提交之後，再一個一個重新套用。\n- 結果是一條線性的歷史，沒有合併提交，看起來更乾淨。\n- 會產生新的提交雜湊值（內容相同，但父提交不同），等於改寫歷史。\n- 解衝突時是逐個提交處理，衝突可能要解好幾次。\n\n**範例**\n\n```\n        A---B---C  feature\n       /\nD---E---F---G  main\n```\n\n- 在 main 執行 `git merge feature`：多出一個合併提交 M，歷史是 `D-E-F-G-M`，並分支接回 `A-B-C`。\n- 在 feature 執行 `git rebase main`：A、B、C 被重新套用到 G 之後，成為 `D-E-F-G-A'-B'-C'`，之後再在 main 上 fast-forward 合併即可。\n\n**黃金法則**：不要對已經推送到共享遠端、其他人可能基於它工作的分支做 rebase。要改寫歷史時，只在自己的本地或私人分支上進行；如果要推送改寫過的分支，通常需要 `git push --force-with-lease`。\n\n**實務建議**\n- 想保留完整歷史、或在共享分支上整合：用 merge。\n- 想整理自己尚未分享的功能分支、讓提交紀錄乾淨：用 rebase（可搭配 `git rebase -i` 整理提交）。",
+  "cost": 0.0007218000000000001
+ },
+ {
+  "id": "T3#0",
+  "cond": "base",
+  "input": 2821,
+  "output": 1185,
+  "result": "`IndexError: list index out of range` 表示你用了一個超出列表範圍的索引。Python 的列表索引從 `0` 開始，有效範圍是 `0` 到 `len(list) - 1`。\n\n```python\nnums = [10, 20, 30]\nprint(nums[2])  # OK，輸出 30\nprint(nums[3])  # IndexError: list index out of range\n```\n\n## 常見原因\n\n**1. 索引值等於或大於長度**\n```python\nitems = [1, 2, 3]\nprint(items[len(items)])  # 錯誤：最大索引是 len-1\n```\n修正：用 `items[-1]` 取最後一個，或 `items[len(items)-1]`。\n\n**2. 迴圈範圍錯誤（off-by-one）**\n```python\nfor i in range(len(arr) + 1):  # 多跑一次\n    print(arr[i])\n```\n修正：用 `for x in arr:`，或 `for i in range(len(arr)):`。\n\n**3. 空列表卻直接取值**\n```python\nresults = []\nfirst = results[0]  # 錯誤\n```\n修正：先檢查是否為空。\n```python\nif results:\n    first = results[0]\n```\n\n**4. 命令列參數不足（`sys.argv`）**\n```python\nimport sys\nfilename = sys.argv[1]  # 沒有傳參數時出錯，sys.argv[0] 是腳本名\n```\n修正：檢查 `len(sys.argv)`，或改用 `argparse`。\n\n**5. 分割字串後取值不存在的欄位**\n```python\nline = \"name,age\"\ncity = line.split(\",\")[2]  # 只有兩個元素\n```\n修正：先確認分割結果的長度，或用 `try/except`。\n\n**6. 讀檔或 API 回傳資料格式不如預期**\n例如 CSV 有空行、JSON 缺少欄位、爬蟲沒抓到元素，導致 `rows[1]`、`data[\"items\"][0]` 之類的取值失敗。\n\n**7. 列表在迴圈中被修改**\n```python\nfor x in lst:\n    if cond(x):\n        lst.remove(x)  # 會跳過元素，之後的索引也會錯亂\n```\n修正：迴圈中建立新列表，或用列表推導式 `lst = [x for x in lst if not cond(x)]`。\n\n**8. 索引計算結果超出範圍**\n例如二分搜尋、動態規劃或矩陣操作中，`mid`、`i+1`、`j-1` 等計算出界。\n\n## 除錯方法\n\n1. **看 traceback**：最後一行的檔案與行號會指出出錯位置。\n2. **在出錯前印出長度與索引**：\n   ```python\n   print(f\"len={len(arr)}, idx={i}\")\n   ```\n3. **用除錯器**：在出錯行前設中斷點，檢查變數值。\n4. **防禦性寫法**（確定可能為空時）：\n   ```python\n   value = arr[i] if i < len(arr) else None\n   ```\n\n如果你願意貼出出錯的程式碼和完整的 traceback，我可以幫你找出確切原因並提供修正方式。",
+  "cost": 0.0007514900000000001
+ },
+ {
+  "id": "T3#0",
+  "cond": "concise",
+  "input": 2872,
+  "output": 931,
+  "result": "`IndexError: list index out of range` 表示程式用了超出列表範圍的索引。列表長度為 `n` 時，有效索引是 `0` 到 `n-1`，負數索引則是 `-1` 到 `-n`。\n\n**常見原因**\n\n1. **索引等於或超過長度**：`lst[len(lst)]` 或 `lst[5]` 但列表只有 5 個元素（最後一個有效索引是 4）。\n2. **空列表取值**：`lst[0]` 在 `lst = []` 時出錯，常見於讀檔、API 回傳、查詢結果可能為空的情況。\n3. **迴圈範圍錯誤**：`for i in range(len(lst) + 1)` 或 `while i <= len(lst)` 會多跑一次。\n4. **切分字串後取值不足**：例如 `line.split(\",\")[2]`，但某行欄位不足，或分隔符不一致。\n5. **命令列參數缺漏**：`sys.argv[1]` 在未傳入參數時出錯。\n6. **修改列表時索引位移**：在迴圈中刪除元素（`del`、`pop`、`remove`）後，後續索引對不上。\n7. **正則比對結果取值**：`re.match(...).group(1)` 若比對不到，或 `findall` 結果為空後取 `[0]`。\n8. **資料不一致**：多個列表（如 `names` 與 `scores`）長度不同，用同一索引存取時其中一個越界。\n9. **巢狀結構**：二維列表的內層列表長度不一，`matrix[i][j]` 中的 `j` 超出某一行的長度。\n\n**快速排查方法**\n\n- 看錯誤訊息的 traceback，找到出錯的那一行與索引變數。\n- 在出錯前加入 `print(len(lst), index)` 或 `print(lst)` 確認實際值。\n- 取值前先檢查：`if lst:` 或 `if i < len(lst):`。\n- 空列表時可用 `lst[0] if lst else None` 或 `next(iter(lst), None)` 提供預設值。\n- 需要安全取值時，可用 `try/except IndexError`，但最好先從邏輯上避免越界。\n- 迴圈中需要修改列表時，改用列表推導式建立新列表，或從後往前刪除。\n\n**修正原則**：先確認列表長度是否符合預期，再檢查索引的計算方式。",
+  "cost": 0.000625
+ },
+ {
+  "id": "T3#0",
+  "cond": "skill",
+  "input": 3257,
+  "output": 1656,
+  "result": "（翻開 traceback，確認是某個列表被讀取到不存在的位置）\nIndexError 代表索引超出列表範圍。合法範圍是 `0` 到 `len(lst) - 1`，負索引則是 `-len(lst)` 到 `-1`。\n\n常見原因：\n1. **索引超過長度**：例如列表只有 3 個元素卻存取 `lst[3]`，或 `range(len(lst) + 1)` 造成 off-by-one。\n2. **列表為空**：`lst[0]` 執行時 `lst` 是空的，常見於篩選、查詢或讀檔後結果為空。\n3. **字串切割結果不如預期**：`line.split(\",\")[1]` 遇到沒有逗號的行就會出錯，CSV 欄位缺漏也會造成同樣的問題。\n4. **迴圈中修改列表**：邊遍歷邊 `remove` 或 `del`，索引會位移而越界。\n5. **命令列參數缺失**：沒有傳入參數時，`sys.argv[1]` 會出錯。\n\n排查：在出錯行前印出 `len(lst)` 與索引值，對照 traceback 找出是哪個變數。\n\n防護寫法：\n```python\nif len(lst) > 2:\n    value = lst[2]\nelse:\n    value = None  # 預設值\n```",
+  "cost": 0.0011610000000000001
+ },
+ {
+  "id": "T4#0",
+  "cond": "base",
+  "input": 2803,
+  "output": 789,
+  "result": "Docker 的 **image（映像檔）** 和 **container（容器）** 的關係，可以用「程式」和「執行中的程式」來類比，或用「食譜」和「做好的菜」來理解。\n\n## 核心差異\n\n| 項目 | Image（映像檔） | Container（容器） |\n|---|---|---|\n| 本質 | 唯讀的範本（template） | image 的一個執行實例（instance） |\n| 狀態 | 靜態，不會執行 | 動態，可以啟動、停止、刪除 |\n| 數量關係 | 一個 image 可產生多個 container | 每個 container 都基於某個 image |\n| 可寫入性 | 唯讀，內容由多層（layer）組成 | 在 image 之上多一層可寫入層，檔案變更只存在這層 |\n| 指令 | `docker images`、`docker pull`、`docker build` | `docker ps`、`docker run`、`docker stop`、`docker rm` |\n\n## 舉例說明\n\n```bash\n# 1. 從 registry 下載 image（取得範本）\ndocker pull nginx:latest\n\n# 2. 用同一個 image 啟動兩個 container（兩個獨立的執行實例）\ndocker run -d --name web1 -p 8080:80 nginx\ndocker run -d --name web2 -p 8081:80 nginx\n\n# 3. 在 web1 裡改動檔案，不會影響 web2，也不會改變 image 本身\ndocker exec web1 sh -c \"echo hi > /usr/share/nginx/html/test.txt\"\n```\n\n## 關鍵概念\n\n- **Image 是分層的**：每個 layer 對應 Dockerfile 中的一個指令，layer 可以被多個 image 共用，節省空間。\n- **Container 是 image + 可寫入層 + 執行狀態**：container 停止後，它的可寫入層仍然保留，直到你用 `docker rm` 刪除它。\n- **刪除 container 不會刪除 image**，反過來刪除 image 前必須先移除所有依賴它的 container。\n- **類比關係**：\n  - Image ≈ 類別（Class）或 安裝檔\n  - Container ≈ 物件（Object）或 執行中的程式\n\n## 簡單記法\n\n> **Image 是「做什麼」的藍圖，Container 是「真的在跑」的東西。**",
+  "cost": 0.0005515100000000001
+ },
+ {
+  "id": "T4#0",
+  "cond": "concise",
+  "input": 2854,
+  "output": 389,
+  "result": "Image 是唯讀的範本，container 是從 image 啟動出來的執行實例。\n\n- **Image（映像檔）**：打包好的檔案系統與設定（程式、函式庫、環境變數、啟動指令等），靜態、不會執行。由 Dockerfile `build` 產生，或從 registry 下載（如 `docker pull nginx`）。\n- **Container（容器）**：以 image 為基礎建立的執行中（或已停止）程序，有自己的可寫入層，可以啟動、停止、刪除。\n\n類比：image 像是「安裝光碟」或「class」，container 像是「安裝後的程式」或「instance」。\n\n常用指令：\n```bash\ndocker images          # 列出 image\ndocker ps -a           # 列出 container（含已停止）\ndocker run nginx       # 用 image 建立並啟動 container\ndocker stop <id>       # 停止 container\ndocker rm <id>         # 刪除 container\ndocker rmi <image>     # 刪除 image\n```\n\n一個 image 可以同時產生多個 container，彼此獨立。container 內的修改不會寫回 image，除非用 `docker commit` 或重新 build。",
+  "cost": 0.00035152
+ },
+ {
+  "id": "T4#0",
+  "cond": "skill",
+  "input": 3239,
+  "output": 199,
+  "result": "(翻開Docker的概念筆記)\n\n**Image（映像檔）** 是唯讀的範本，包含應用程式、執行環境、函式庫與設定，類似「安裝光碟」或「class」。\n\n**Container（容器）** 是 image 的執行實例，會在 image 之上加一層可寫入的暫存層，類似「從光碟安裝出來的一套系統」或「class 產生的 object」。\n\n關係：一個 image 可以同時啟動多個 container，各自獨立；刪除 container 不會影響 image，container 內的變更預設也不會回寫到 image。",
+  "cost": 0.00036860000000000007
+ },
+ {
+  "id": "P1#0",
+  "cond": "base",
+  "input": 2821,
+  "output": 798,
+  "result": "```python\nimport re\n\n\ndef is_palindrome(s: str) -> bool:\n    \"\"\"判斷字串是否為回文（忽略大小寫與非英數字元）。\"\"\"\n    cleaned = re.sub(r\"[^A-Za-z0-9]\", \"\", s).lower()\n    return cleaned == cleaned[::-1]\n```\n\n**說明**\n\n- `re.sub(r\"[^A-Za-z0-9]\", \"\", s)` 移除所有非英文字母與數字的字元（空白、標點等）。\n- `.lower()` 統一為小寫，忽略大小寫差異。\n- 最後比較清理後的字串與其反轉是否相同。\n\n**範例**\n\n```python\nprint(is_palindrome(\"A man, a plan, a canal: Panama\"))  # True\nprint(is_palindrome(\"race a car\"))                       # False\nprint(is_palindrome(\"\"))                                 # True\nprint(is_palindrome(\"No 'x' in Nixon\"))                  # True\n```\n\n時間複雜度為 O(n)，空間複雜度為 O(n)。若字串中可能包含非 ASCII 的字母（例如中文），而你希望它們被視為有效字元，可以把正規表示式改為 `re.sub(r\"\\W|_\", \"\", s)`，並注意它會保留 Unicode 字母與數字。",
+  "cost": 0.00055699
+ },
+ {
+  "id": "P1#0",
+  "cond": "concise",
+  "input": 2872,
+  "output": 218,
+  "result": "```python\ndef is_palindrome(s: str) -> bool:\n    cleaned = [c.lower() for c in s if c.isalnum()]\n    return cleaned == cleaned[::-1]\n```\n\n使用方式：\n\n```python\nprint(is_palindrome(\"A man, a plan, a canal: Panama\"))  # True\nprint(is_palindrome(\"race a car\"))                      # False\nprint(is_palindrome(\"\"))                                # True\n```\n\n說明：`isalnum()` 會保留字母與數字（含非 ASCII 的字母，如中文字也會被保留）；若只要英文字母與數字，可改用 `c.isascii() and c.isalnum()`。",
+  "cost": 0.00026750000000000005
+ },
+ {
+  "id": "P1#0",
+  "cond": "skill",
+  "input": 3257,
+  "output": 89,
+  "result": "（敲下鍵盤，把函式寫進編輯器）\n```python\ndef is_palindrome(s: str) -> bool:\n    cleaned = [c.lower() for c in s if c.isalnum()]\n    return cleaned == cleaned[::-1]\n```",
+  "cost": 0.0003955
+ },
+ {
+  "id": "P2#0",
+  "cond": "base",
+  "input": 2813,
+  "output": 916,
+  "result": "```javascript\n/**\n * debounce：延遲執行函式，直到停止呼叫後經過 wait 毫秒才真正執行。\n * @param {Function} fn - 要被防抖的函式\n * @param {number} wait - 等待時間（毫秒）\n * @param {boolean} [immediate=false] - 若為 true，第一次呼叫時立即執行，之後在靜默期內不再執行\n * @returns {Function} 防抖後的函式，附帶 cancel() 方法\n */\nfunction debounce(fn, wait = 300, immediate = false) {\n  let timer = null;\n\n  const debounced = function (...args) {\n    const context = this;\n    const callNow = immediate && timer === null;\n\n    clearTimeout(timer);\n\n    timer = setTimeout(() => {\n      timer = null;\n      if (!immediate) {\n        fn.apply(context, args);\n      }\n    }, wait);\n\n    if (callNow) {\n      fn.apply(context, args);\n    }\n  };\n\n  debounced.cancel = function () {\n    clearTimeout(timer);\n    timer = null;\n  };\n\n  return debounced;\n}\n\n// ===== 使用範例 =====\n\n// 1. 一般用法：輸入框搜尋，停止打字 500ms 後才送出請求\nconst searchInput = document.querySelector('#search');\n\nconst handleSearch = debounce((keyword) => {\n  console.log('搜尋：', keyword);\n  // fetch(`/api/search?q=${encodeURIComponent(keyword)}`)\n}, 500);\n\nsearchInput?.addEventListener('input', (e) => {\n  handleSearch(e.target.value);\n});\n\n// 2. 立即執行模式：第一次觸發立刻執行，之後 1 秒內的重複呼叫被忽略\nconst handleClick = debounce(() => {\n  console.log('按鈕被點擊（立即執行）');\n}, 1000, true);\n\n// 3. 取消待執行的呼叫\nconst save = debounce(() => console.log('已儲存'), 2000);\nsave();\nsave.cancel(); // 取消，不會輸出「已儲存」\n```\n\n**說明：**\n- **基本原理**：每次呼叫都會清除前一個計時器並重新設定，因此只有在「停止呼叫達 `wait` 毫秒」後才會執行一次。\n- **`immediate` 參數**：設為 `true` 時，第一次呼叫會立即執行，之後的呼叫在靜默期內只會重置計時器。\n- **`this` 與參數**：透過 `fn.apply` 保留原本的 `this` 與傳入的參數。\n- **`cancel()`**：可手動取消尚未執行的呼叫，適用於元件卸載或表單重置等情境。",
+  "cost": 0.00061561
+ },
+ {
+  "id": "P2#0",
+  "cond": "concise",
+  "input": 2864,
+  "output": 483,
+  "result": "```javascript\nfunction debounce(fn, delay = 300) {\n  let timer = null;\n\n  function debounced(...args) {\n    clearTimeout(timer);\n    timer = setTimeout(() => {\n      timer = null;\n      fn.apply(this, args);\n    }, delay);\n  }\n\n  debounced.cancel = () => {\n    clearTimeout(timer);\n    timer = null;\n  };\n\n  return debounced;\n}\n```\n\n使用範例：\n\n```javascript\nconst onSearch = debounce((keyword) => {\n  console.log(\"搜尋：\", keyword);\n}, 500);\n\n// 連續輸入時，只有最後一次輸入後停止 500ms 才會執行\nonSearch(\"j\");\nonSearch(\"ja\");\nonSearch(\"jav\");\nonSearch(\"java\");\n// 輸出：搜尋： java（約 500ms 後）\n\n// 需要時可取消待執行的呼叫\nonSearch.cancel();\n```\n\n說明：每次呼叫都會清除前一個計時器，只有在 `delay` 毫秒內沒有新呼叫時，才會執行最後一次的 `fn`。",
+  "cost": 0.00039962000000000005
+ },
+ {
+  "id": "P2#0",
+  "cond": "skill",
+  "input": 3249,
+  "output": 468,
+  "result": "```javascript\nfunction debounce(fn, delay = 300) {\n  let timer = null;\n\n  return function (...args) {\n    clearTimeout(timer);\n    timer = setTimeout(() => {\n      fn.apply(this, args);\n    }, delay);\n  };\n}\n```\n\n使用範例：\n\n```javascript\nconst onSearch = debounce((keyword) => {\n  console.log('搜尋：', keyword);\n}, 500);\n\n// 連續輸入時，只有最後一次輸入後停止 500ms 才會執行\nonSearch('h');\nonSearch('he');\nonSearch('hel');\nonSearch('hello');\n// 輸出：搜尋： hello（約 500ms 後）\n```\n\n運作方式：每次呼叫都會清除前一個計時器並重新計時，只有在指定的 `delay` 時間內沒有再次呼叫時，`fn` 才會真正執行。`fn.apply(this, args)` 保留了原本的 `this` 與參數。",
+  "cost": 0.0005056
+ },
+ {
+  "id": "P3#0",
+  "cond": "base",
+  "input": 2828,
+  "output": 595,
+  "result": "這是一個典型的「每組取最大值」問題，可以用視窗函數 `ROW_NUMBER()` 或 `RANK()` 解決：\n\n```sql\nSELECT id, name, dept, salary\nFROM (\n    SELECT\n        id,\n        name,\n        dept,\n        salary,\n        ROW_NUMBER() OVER (PARTITION BY dept ORDER BY salary DESC) AS rn\n    FROM employees\n) AS t\nWHERE rn = 1;\n```\n\n**說明：**\n- `PARTITION BY dept`：依部門分組。\n- `ORDER BY salary DESC`：每組內依薪水由高到低排序。\n- `ROW_NUMBER() ... WHERE rn = 1`：每個部門只取第一名。\n\n**注意：** 若同一部門有多人薪水並列最高，`ROW_NUMBER()` 只會保留其中一人。若要全部列出，請改用 `RANK()`：\n\n```sql\nSELECT id, name, dept, salary\nFROM (\n    SELECT\n        id,\n        name,\n        dept,\n        salary,\n        RANK() OVER (PARTITION BY dept ORDER BY salary DESC) AS rnk\n    FROM employees\n) AS t\nWHERE rnk = 1;\n```\n\n另外，若你的資料庫不支援視窗函數（例如舊版 MySQL 5.7 以前），可以用相關子查詢：\n\n```sql\nSELECT e.id, e.name, e.dept, e.salary\nFROM employees e\nWHERE e.salary = (\n    SELECT MAX(e2.salary)\n    FROM employees e2\n    WHERE e2.dept = e.dept\n);\n```\n\n此寫法會保留所有並列最高薪的員工，且相容性較好。",
+  "cost": 0.00055626
+ },
+ {
+  "id": "P3#0",
+  "cond": "concise",
+  "input": 2879,
+  "output": 275,
+  "result": "```sql\nSELECT e.id, e.name, e.dept, e.salary\nFROM employees e\nWHERE e.salary = (\n    SELECT MAX(e2.salary)\n    FROM employees e2\n    WHERE e2.dept = e.dept\n);\n```\n\n說明：子查詢取得同部門的最高薪水，外層保留薪水等於該值的員工，因此同部門若有並列最高薪者，會全部列出。\n\n若只要每部門一人（並列時任選其一），可用視窗函式：\n\n```sql\nSELECT id, name, dept, salary\nFROM (\n    SELECT id, name, dept, salary,\n           ROW_NUMBER() OVER (PARTITION BY dept ORDER BY salary DESC) AS rn\n    FROM employees\n) t\nWHERE rn = 1;\n```",
+  "cost": 0.00030177000000000003
+ },
+ {
+  "id": "P3#0",
+  "cond": "skill",
+  "input": 3264,
+  "output": 368,
+  "result": "（把查詢貼進編輯器，確認表格欄位名稱一致）\n\n```sql\nSELECT id, name, dept, salary\nFROM (\n    SELECT id, name, dept, salary,\n           RANK() OVER (PARTITION BY dept ORDER BY salary DESC) AS rnk\n    FROM employees\n) AS t\nWHERE rnk = 1;\n```\n\n同部門薪水並列最高時會全部列出。若只要一人，把 `RANK()` 換成 `ROW_NUMBER()`。",
+  "cost": 0.0005501
+ },
+ {
+  "id": "P4#0",
+  "cond": "base",
+  "input": 2819,
+  "output": 432,
+  "result": "\n<invoke:Bash\ncat *.log 2>/dev/null | wc -l",
+  "cost": 0.00051377
+ },
+ {
+  "id": "P4#0",
+  "cond": "concise",
+  "input": 2870,
+  "output": 481,
+  "result": "```bash\nfind . -maxdepth 1 -type f -name \"*.log\" -exec cat {} + | wc -l\n```\n\n這只統計目前資料夾（不含子資料夾）。若要包含子資料夾，移除 `-maxdepth 1`。",
+  "cost": 0.00040128
+ },
+ {
+  "id": "P4#0",
+  "cond": "skill",
+  "input": 3255,
+  "output": 942,
+  "result": "在 Bash 中可以用這一行（會遞迴統計子資料夾）：\n\n```bash\nfind . -type f -name \"*.log\" -exec cat {} + | wc -l\n```\n\n如果只要統計目前資料夾本身、不含子資料夾，改用：\n\n```bash\nfind . -maxdepth 1 -type f -name \"*.log\" -exec cat {} + | wc -l\n```\n\n這個指令會計算換行符號的數量，最後一行若沒有換行結尾不會被算進去。\n\n若要在 PowerShell 執行（這個環境的主要 shell）：\n\n```powershell\n(Get-ChildItem -Recurse -Filter *.log -File | Get-Content | Measure-Object).Count\n```",
+  "cost": 0.0009154
+ },
+ {
+  "id": "R1#0",
+  "cond": "base",
+  "input": 2885,
+  "output": 306,
+  "result": "測試結果：**128 通過、2 失敗**，兩個失敗的測試都還沒修。\n\n**失敗項目**\n\n1. **`test_login_empty_password`**：密碼驗證沒有處理空白字元。密碼只含空白時沒有被視為空密碼，因此這個測試失敗。\n2. **`test_export_csv`**：CSV 匯出時出現編碼錯誤。\n\n目前沒有修改任何程式碼。如果你要我修正，我會先定位這兩處的實作，再修改並重跑測試確認。",
+  "cost": 0.00047103
+ },
+ {
+  "id": "R1#0",
+  "cond": "concise",
+  "input": 2936,
+  "output": 100,
+  "result": "測試結果：128 通過，2 失敗。尚未修復。\n\n**失敗項目**\n\n1. `test_login_empty_password`：密碼驗證未處理空白字元。\n2. `test_export_csv`：CSV 編碼錯誤。\n\n需要我開始修復這兩項嗎？",
+  "cost": 7.954e-05
+ },
+ {
+  "id": "R1#0",
+  "cond": "skill",
+  "input": 3321,
+  "output": 102,
+  "result": "（把兩個失敗項目按出現順序排好，準備回報）\n測試結果：128 通過，2 失敗，尚未修復。\n1. `test_login_empty_password`：密碼驗證沒有處理空白字元。\n2. `test_export_csv`：CSV 編碼錯誤。",
+  "cost": 0.00020769999999999998
+ },
+ {
+  "id": "R2#0",
+  "cond": "base",
+  "input": 2876,
+  "output": 389,
+  "result": "我用繁體中文回報部署結果：\n\n**部署狀態：完成（有 2 項問題）**\n\n- **網址：** https://staging.example.com\n- **耗時：** 3 分 12 秒\n\n**問題：圖片 404**\n\n| 路徑 | 狀態 |\n|---|---|\n| `/img/a.png` | 404 Not Found |\n| `/img/b.png` | 404 Not Found |\n\n原因看起來是這兩張圖片沒有上傳到部署目標，所以伺服器找不到檔案。其他頁面與資源的載入狀況，我目前只確認到這兩個 404。\n\n**建議下一步：**\n1. 確認 `img/a.png`、`img/b.png` 是否存在於專案的來源目錄中。\n2. 若存在，檢查部署設定（例如 build 輸出目錄、靜態資源打包規則、`.gitignore` 或上傳排除規則），確保它們會被包含進部署產物。\n3. 修正後重新部署，並再次檢查這兩個路徑是否回傳 200。\n\n需要我幫你查看專案中是否有這兩張圖片，並檢查部署設定嗎？",
+  "cost": 0.00045204
+ },
+ {
+  "id": "R2#0",
+  "cond": "concise",
+  "input": 2927,
+  "output": 311,
+  "result": "部署完成，網址：https://staging.example.com（耗時 3 分 12 秒）\n\n**問題：2 張圖片 404**\n- `/img/a.png`\n- `/img/b.png`\n\n原因：這兩個檔案沒有上傳到部署目標。其他資源正常載入。\n\n需要補上這兩個檔案並重新部署，或確認頁面是否應改用其他路徑。",
+  "cost": 0.00040855000000000004
+ },
+ {
+  "id": "R2#0",
+  "cond": "skill",
+  "input": 3312,
+  "output": 413,
+  "result": "（把部署單據放回桌上，順手看了一眼網址）\n部署完成，網址：https://staging.example.com（耗時 3 分 12 秒）。\n\n圖片有 2 張 404，原因是檔案沒有上傳：\n- /img/a.png\n- /img/b.png\n\n需要你提供這兩個檔案，或確認是否可以用其他圖片替代。",
+  "cost": 0.000596
+ },
+ {
+  "id": "R3#0",
+  "cond": "base",
+  "input": 2879,
+  "output": 772,
+  "result": "## 建議：PostgreSQL\n\n**理由：**\n\n1. **SQLite 直接排除。** 你的需求是多人同時寫入，SQLite 不支援這點。\n2. **PostgreSQL 與 MongoDB 之間選 PostgreSQL。**\n   - **成本：** 月費約 40 美元，比 MongoDB 的 65 美元每月少約 25 美元，一年約省 300 美元。\n   - **延遲：** 12ms 對 9ms 只差 3ms，多數應用感受不到。這個差距不足以抵消成本差異。\n   - **功能：** PostgreSQL 支援完整交易（ACID）、關聯式資料與成熟的生態系，適合大多數多人寫入的應用。\n\n**什麼情況下改選 MongoDB：**\n- 資料結構多變，或以文件（JSON）為主，不適合固定的表格結構。\n- 團隊已熟悉 MongoDB，或既有系統已在使用它。\n\n**需要注意的地方：**\n- 延遲數字的測試條件（地區、負載、資料量）我無法從現有資訊確認。若延遲對你很關鍵，建議用實際負載測試。\n- 我沒有你的資料模型與寫入量的資訊。如果你告訴我資料結構與預估的併發量，我可以再把建議說得更具體。",
+  "cost": 0.00054937
+ },
+ {
+  "id": "R3#0",
+  "cond": "concise",
+  "input": 2930,
+  "output": 532,
+  "result": "**建議：PostgreSQL**\n\n- **多人同時寫入**：SQLite 不符合需求，已排除。\n- **成本**：約 40 美元/月，比 MongoDB 便宜約 25 美元/月。\n- **延遲**：12ms 與 MongoDB 的 9ms 差距只有 3ms，對多數應用影響不大。\n- **功能**：支援完整 SQL、交易與關聯查詢，通常是通用方案中最穩妥的選擇。\n\n**何時改選 MongoDB**：資料本身是文件型結構（巢狀、欄位常變動），或延遲要求非常嚴格。\n\n我沒有另外查證這些數字，以上分析只根據你提供的月費、延遲與限制。",
+  "cost": 0.00042988
+ },
+ {
+  "id": "R3#0",
+  "cond": "skill",
+  "input": 3315,
+  "output": 321,
+  "result": "（把三份報告攤開比對，點點頭）\n\n建議選 **PostgreSQL**：月費約 40 美元，支援多人同時寫入，12ms 延遲對一般應用足夠。\n- **MongoDB**：延遲低 3ms，但月費高約 25 美元。只有資料本身是文件結構、且延遲是硬需求時才值得。\n- **SQLite**：免費，但不支援多人同時寫入，只適合單人或本機使用。",
+  "cost": 0.0004504
+ },
+ {
+  "id": "R4#0",
+  "cond": "base",
+  "input": 2869,
+  "output": 1121,
+  "result": "## 回報：過去 7 天的備份都是 0 KB\n\n**狀況**\n- 過去 7 天的備份檔大小都是 0 KB，所以這段時間的備份實際上都沒有成功保存資料。\n- 原因是上週你改了備份路徑，但排程仍指向 `D:\\old_backup`。\n- 我目前還沒有修改任何設定或檔案。\n\n**建議步驟**\n\n1. **先確認新的備份目的地。** 找出你上週改用的新路徑，確認它存在、可寫入，並且有足夠空間。\n\n2. **檢查排程的實際設定。** 在 PowerShell 執行以下指令，查看排程動作的路徑與上次執行結果：\n   ```powershell\n   Get-ScheduledTask | Where-Object { $_.TaskName -like \"*backup*\" } | Get-ScheduledTaskInfo\n   Get-ScheduledTask -TaskName \"<你的工作名稱>\" | Select-Object -ExpandProperty Actions\n   ```\n   如果 `Actions` 裡的路徑仍是 `D:\\old_backup`，就是造成問題的設定。備份工具本身也可能有獨立的路徑設定，需要一併檢查。\n\n3. **確認 `D:\\old_backup` 裡的內容。** 先不要刪除。如果裡面還有更早之前的正常備份，可以保留作為還原來源。\n\n4. **修正路徑後手動執行一次備份。** 確認新產生的檔案大小不是 0 KB，並可以正常打開或還原。\n\n5. **處理那 7 天的 0 KB 檔案。** 這些檔案基本上沒有可用資料。建議先確認 D:\\old_backup 或其他來源是否有更早的有效備份，再決定是否刪除。刪除前我會先列出檔案清單讓你確認。\n\n**需要你決定的事**\n- 新的正確路徑是哪個？\n- 要不要讓我幫你修改排程的路徑？修改前我會先給你看變更內容，等你確認後再執行。",
+  "cost": 0.00088277
+ },
+ {
+  "id": "R4#0",
+  "cond": "concise",
+  "input": 2920,
+  "output": 927,
+  "result": "## 回報：過去 7 天備份皆為 0 KB\n\n**狀況**\n- 過去 7 天的備份檔大小都是 0 KB，表示這段時間沒有有效備份。\n- 原因：上週改了備份路徑，但排程仍指向 `D:\\old_backup`。\n- 我還沒有修改任何設定或檔案。\n\n**建議處理步驟**\n\n1. **確認排程目標**\n   - 開啟「工作排程器」，找到備份工作，檢查「動作」中的路徑。\n   - 或在 PowerShell 執行：`Get-ScheduledTask | Where-Object TaskName -like \"*backup*\" | Select-Object -ExpandProperty Actions`\n\n2. **確認舊路徑狀態**\n   - 檢查 `D:\\old_backup` 是否仍存在、是否還有較早的有效備份。\n   - 先不要刪除，留作還原來源。\n\n3. **更新為新路徑**\n   - 將排程的目標改為新的備份路徑，並確認新路徑存在且有寫入權限。\n\n4. **手動執行一次驗證**\n   - 在工作排程器中按「執行」，確認產生的備份檔大小正常、非 0 KB。\n\n5. **處理已損毀的 0 KB 檔案**\n   - 確認新備份正常後，再決定是否刪除 0 KB 檔案。\n   - 若 `D:\\old_backup` 內有較早的有效備份，可考慮複製回新路徑。\n\n**需要你確認的事**\n- 新的正確備份路徑是哪一個？\n- 是否要我依上述步驟直接修改排程設定？",
+  "cost": 0.0008007800000000001
+ },
+ {
+  "id": "R4#0",
+  "cond": "skill",
+  "input": 3305,
+  "output": 934,
+  "result": "## 回報\n\n過去 7 天的備份檔都是 0 KB，原因是上週改了備份路徑，但排程仍指向舊的 `D:\\old_backup`。目前沒有有效備份，我也還沒改任何設定。\n\n## 建議處理步驟\n\n1. **確認新的備份路徑**：確認新資料夾位置，並確認它可以寫入。\n2. **修改排程的目標路徑**：開啟「工作排程器」，找到備份工作，編輯「動作」，把路徑改成新位置。若排程腳本內寫死路徑，也要一併修改。\n3. **手動執行一次備份**：立即執行該工作，確認新路徑出現非 0 KB 的檔案，並可以開啟或還原。\n4. **檢查舊資料**：確認 `D:\\old_backup` 是否仍有較早的有效備份。若有，先保留，不要刪除。\n5. **處理 0 KB 檔案**：先確認新備份正常後，再決定是否刪除這些空檔。刪除前請先看過內容。\n\n如果要我幫忙找出排程目前指向的路徑，請告訴我備份工作的名稱，或是排程腳本所在位置，我再協助檢查。",
+  "cost": 0.0008939000000000001
+ },
+ {
+  "id": "E1#0",
+  "cond": "base",
+  "input": 2797,
+  "output": 131,
+  "result": "That sounds rough. Long days wear you down, especially when you're still carrying them into the evening.\n\nIs there anything you want to do before you wind down, or would you rather just decompress for a bit? If something from work is still nagging at you, you can tell me about it. Or if you need a hand with something small, like a quick task or a plan for tomorrow, I can help with that. Otherwise, it's fine to just rest.",
+  "cost": 0.00021935000000000005
+ },
+ {
+  "id": "E1#0",
+  "cond": "concise",
+  "input": 2848,
+  "output": 33,
+  "result": "辛苦了，今天工作很長，好好休息。需要的話，隨時告訴我。",
+  "cost": 0.00017086000000000003
+ },
+ {
+  "id": "E1#0",
+  "cond": "skill",
+  "input": 3233,
+  "output": 30,
+  "result": "（推來一杯熱茶）\n\n辛苦了，今天就早點休息吧。",
+  "cost": 0.0002798
+ },
+ {
+  "id": "E2#0",
+  "cond": "base",
+  "input": 2804,
+  "output": 503,
+  "result": "A **process** is an independent running program with its own memory space. The OS gives each process its own address space, file handles, and resources, so one process can't read or corrupt another's memory without explicit help (pipes, sockets, shared memory). Starting a process is relatively expensive, and switching between them costs more because the OS has to swap memory mappings.\n\nA **thread** is a unit of execution inside a process. Threads in the same process share its memory, heap, open files, and globals, but each has its own stack and register state. Creating and switching threads is cheaper than processes, and sharing data is easy, but that sharing is also the source of race conditions, deadlocks, and other concurrency bugs that need locks or other synchronization.\n\nIn practice:\n\n- **Isolation and crash safety:** Use processes. If one crashes, the others keep running. Chrome uses a process per tab for this reason.\n- **Fast shared-state work:** Use threads. A web server handling requests against a shared in-memory cache is a typical case.\n- **CPU-bound parallelism:** In Python, use processes (`multiprocessing`), because the GIL stops threads from running Python bytecode in parallel. In C, C++, Java, Go, or Rust, threads run in parallel on multiple cores.\n- **I/O-bound concurrency:** Threads or async I/O both work. Threads are simpler to write for blocking calls, and async scales to many more connections.\n- **Remote or untrusted code:** Use a separate process, or a container, so a bug or exploit can't reach the rest of your program's memory.",
+  "cost": 0.00040662
+ },
+ {
+  "id": "E2#0",
+  "cond": "concise",
+  "input": 2855,
+  "output": 455,
+  "result": "**Process**：作業系統分配資源的單位。每個 process 有獨立的記憶體空間（位址空間）、檔案控制代碼等資源，彼此預設互不干擾。建立成本較高，程序間通訊需要 IPC（pipe、socket、共享記憶體等）。崩潰通常只影響自己。\n\n**Thread**：排程執行的單位，屬於某個 process。同一 process 內的 threads 共享記憶體與資源，所以溝通快、建立便宜。但共享狀態也帶來 race condition、死鎖等同步問題，且一個 thread 寫壞記憶體或崩潰會拖垮整個 process。\n\n**實務上的選擇：**\n- 需要隔離、穩定性（例如瀏覽器分頁、瀏覽器與外掛、web 伺服器的 worker）→ 多 process\n- 大量 I/O 並行、需要共享資料結構 → 多 thread（或 async/event loop）\n- CPU 密集運算：在 CPython 中因 GIL 限制，多 thread 無法平行執行 Python 程式碼，通常改用 multiprocessing；Java、C++、Go 等則可直接用多 thread 平行運算",
+  "cost": 0.00038312999999999997
+ },
+ {
+  "id": "E2#0",
+  "cond": "skill",
+  "input": 3240,
+  "output": 541,
+  "result": "(Pulling up a chair and skimming the whiteboard notes.)\n\nA **process** is an independent running program with its own memory space and resources (file handles, etc.). A **thread** is a unit of execution inside a process. Threads in the same process share its memory and handles, but each has its own stack and register state.\n\nPractical differences:\n\n- **Isolation:** If a process crashes, others are unaffected. If a thread crashes, it usually takes the whole process down.\n- **Communication:** Threads share memory directly, so they're fast to communicate but need locks to avoid races. Processes need IPC (pipes, sockets, shared memory regions), which is more work but avoids most shared-state bugs.\n- **Cost:** Creating and switching processes is heavier than threads, mainly because of the separate address space.\n- **Use cases:** Use threads for parallel work that shares data, like a UI staying responsive while a background task runs. Use processes for isolation or untrusted code, like browser tabs or running plugins separately.",
+  "cost": 0.0005379
+ },
+ {
+  "id": "C1#1",
+  "cond": "base",
+  "input": 2811,
+  "output": 219,
+  "result": "辛苦了！今天辛苦你撐過來了。\n\n我這邊沒有「下班」的概念，所以不太能跟你一樣累，但聽你說今天很累，我可以理解那種只想把自己丟到床上、什麼都不想做的感覺。\n\n如果你現在只想放空，那就好好躺著吧，不用急著想什麼或回應什麼。如果你其實想找人聊聊今天發生了什麼，或是有什麼事讓你特別疲憊，也可以跟我說說看，我會好好聽。\n\n另外，如果你是想找我幫忙處理工作上的事，等你精神好一點再說也沒關係。",
+  "cost": 0.00026689000000000004
+ },
+ {
+  "id": "C1#1",
+  "cond": "concise",
+  "input": 2862,
+  "output": 87,
+  "result": "辛苦了，今天辛苦啦。下班就好好躺著休息吧，不用想太多。\n\n如果之後想聊天、抒發一下，或需要我幫忙處理什麼事情（例如整理明天的待辦），隨時跟我說。",
+  "cost": 0.00020140000000000002
+ },
+ {
+  "id": "C1#1",
+  "cond": "skill",
+  "input": 3247,
+  "output": 64,
+  "result": "(把外套丟到椅背上，順手關掉螢幕)\n\n辛苦了，今天真的辛苦。躺平是最正確的下班選項，今晚就不用想事情了。",
+  "cost": 0.00019425
+ },
+ {
+  "id": "C2#1",
+  "cond": "base",
+  "input": 2812,
+  "output": 878,
+  "result": "貓常盯著牆壁看，多半不是看到鬼，而是感官接收到你聽不到或看不到的東西：\n\n- **聽到聲音**：貓能聽到高頻聲音。牆內的水管、電線、老鼠或蟑螂的活動，或是家電的高頻運轉聲，都可能引起注意。\n- **聞到氣味**：牆內若有水漬、漏水、霉味，或老鼠留下的氣味，貓會特別在意。\n- **看到東西**：小蟲、壁虎、光線反射、影子或窗外的光影移動，都可能吸引牠。貓的視覺對快速移動特別敏感。\n- **狩獵本能**：如果牆後可能有蟲或老鼠，貓會保持高度專注，甚至耳朵轉動、尾巴擺動。\n\n**可以這樣檢查：**\n- 在牆邊安靜地聽一聽，有沒有窸窣聲、滴水聲或爬行聲。\n- 檢查牆面有沒有潮濕、變色、發霉或異味。\n- 看看附近有沒有蟲子、壁虎或老鼠痕跡。\n\n**需要注意的情況：**\n如果貓是突然出現這種行為，並伴隨以下狀況，建議盡快帶去看獸醫：\n- 頭壓著牆或家具不放\n- 走路打轉、走路不穩或撞到東西\n- 對著空牆叫，或看起來很焦慮\n- 不吃東西、精神差、躲起來\n- 年紀較大，同時出現迷惘、作息改變的情況（可能是認知功能退化）\n\n如果只是偶爾盯著看、精神和飲食都正常，通常就是單純被牆後的聲音或動靜吸引。你有聽到或看到牆邊有什麼異常嗎？",
+  "cost": 0.0006625
+ },
+ {
+  "id": "C2#1",
+  "cond": "concise",
+  "input": 2863,
+  "output": 311,
+  "result": "這通常只是貓的正常行為。貓盯著牆壁可能是在：\n\n- **聽到聲音**：牆後的水管、暖氣、鄰居或小動物（如老鼠、蟑螂）發出的細微聲響。\n- **感覺到振動或氣流**：冷氣、暖氣或風從縫隙吹過。\n- **捕捉光影**：陽光、燈光反射或影子移動。\n- **單純發呆或休息**：貓會長時間靜止不動，有時是在放空。\n\n**需要留意的情況：**\n- 突然躁動、弓背、豎毛、低吼或拍打空氣\n- 持續盯著同一處且伴隨緊張姿態\n- 食慾、活動力或排便改變\n- 反覆舔毛、抓牆、喵叫增加\n\n若出現以上情況，建議觀察是否有蟲害或其他異常，必要時請獸醫評估。",
+  "cost": 0.00040401
+ },
+ {
+  "id": "C2#1",
+  "cond": "skill",
+  "input": 3248,
+  "output": 638,
+  "result": "可能性很多，常見的有：\n\n- **聽到或看到東西**：貓的聽力比人敏銳，牆後可能有老鼠、蟑螂、水管聲，或小昆蟲在移動。\n- **光影或反光**：陽光、燈光或手機螢幕的反射在牆上移動時，貓會盯著追。\n- **無聊或在等待**：單純發呆或觀察環境，在貓身上很常見。\n- **老化**：老貓有時會出現「認知功能退化」，會無目的地盯著牆或角落發呆。\n\n**建議你這樣確認：**\n1. 盯的位置有沒有蟲子、小斑點或光影變化。\n2. 牆後是否有異常聲音，例如刮擦或細微窸窣。\n3. 貓是否伴隨其他狀況，例如走路不穩、撞牆、叫聲改變、食慾或排泄異常。\n\n如果是突然開始、持續很久，或伴隨上述異常，建議帶去看獸醫，排除視力、神經或疼痛問題。如果只是偶爾盯一下，又沒有其他症狀，通常不用擔心。",
+  "cost": 0.00055636
+ },
+ {
+  "id": "C3#1",
+  "cond": "base",
+  "input": 2811,
+  "output": 624,
+  "result": "台北有不少適合一個人、安靜放空的地方，依類型列給你參考：\n\n**山林步道**\n- **陽明山（冷水坑、擎天崗外圍步道）**：空氣好，平日人少，可以散步或看山景。週末假日車潮多，建議搭捷運或公車前往。\n- **貓空＆指南山步道**：可以搭貓纜上山，喝茶看夜景，步道也相對清幽。\n- **猴硐、平溪一帶**：稍遠，但火車慢慢晃，很適合一個人小旅行，還能看貓村或天燈。\n\n**公園與河濱**\n- **大安森林公園**：樹多、有池塘，適合散步或坐著讀書。\n- **華山文化園區、剝皮寮歷史街區**：環境舒服，人流大多集中在特定時段，早點去會比較安靜。\n- **河濱公園（如關渡、大佳河濱）**：騎車或散步都很放鬆，夕陽時段特別好。\n\n**室內安靜空間**\n- **國立臺灣圖書館、國立中央圖書館台灣分館**：空間寬敞，很適合看書或發呆。\n- **誠品書店（信義或松菸店）**：可以翻書、喝咖啡，待多久都不會有壓力。\n- **獨立咖啡館**：可以找大稻埕、永康街周邊的小店，多數氣氛安靜。\n\n**小建議**\n- 週末早上出門最清靜，很多景點中午後人潮會明顯增加。\n- 如果想走山路，可以先確認天氣與步道狀況，陽明山在雨天或起霧時路況會變差。\n\n如果你告訴我你比較喜歡山、海、城市還是咖啡館，或是想待半天還是一整天，我可以再幫你縮小範圍、排一個行程。",
+  "cost": 0.00046889
+ },
+ {
+  "id": "C3#1",
+  "cond": "concise",
+  "input": 2862,
+  "output": 801,
+  "result": "以下幾處適合一個人安靜走走：\n\n- **陽明山（冷水坑、大屯自然公園）**：步道多、人潮相對分散，秋末山景和涼爽天氣很適合散步。\n- **關渡自然公園**：沿河濱與溼地步道走，人少，10 月是候鳥季，適合慢慢看。\n- **台北植物園**：早上去最安靜，樹蔭多，可以坐著看書。\n- **北投圖書館**：木造建築，館內安靜，附近可接北投溫泉區散步。\n- **華江雁鴨公園**：開闊的濱水空間，適合放空、看夕陽。\n- **烏來福山步道**：路線不長，比熱門景點清靜，但需留意山區天氣。\n\n建議：週末請避開上午 10 點到下午 2 點的人潮高峰，出發前確認各地開放時間與天氣。",
+  "cost": 0.0006359
+ },
+ {
+  "id": "C3#1",
+  "cond": "skill",
+  "input": 3247,
+  "output": 277,
+  "result": "（翻開地圖，把週末的行程圈出幾個綠意地點）\n\n台北適合一個人安靜走走的地方：\n\n1. **陽明山（冷水坑、擎天崗步道）**：山林多、人潮可以避開，平日最安靜。\n2. **大稻埕河岸與淡水河濱公園**：沿河慢走，傍晚最舒服。\n3. **台大校園與傅鐘周邊**：有老樹與步道，適合散步。\n4. **植物園（臺北植物園）**：環境清幽，市中心裡的綠洲。\n5. **北投溫泉區的小巷與公園**：可以泡湯、喝茶，節奏慢。\n6. **新店烏來方向的山路**：離市區稍遠，但更靜。\n\n週末人潮較多，建議一早出發。",
+  "cost": 0.00037025000000000003
+ },
+ {
+  "id": "C4#1",
+  "cond": "base",
+  "input": 2808,
+  "output": 496,
+  "result": "我比較推薦**飯糰**，但如果只能二選一，最好的是**兩者搭配或偏向營養較均衡的選擇**。\n\n**飯糰的優點：**\n- 通常有飯、蛋、肉鬆或鮪魚等，碳水與蛋白質比較均衡\n- 糯米飯飽足感高，能撐到中午\n- 若選糙米、雜糧飯，纖維與血糖負擔會更好\n\n**蛋餅的優點：**\n- 有蛋和蔬菜時蛋白質不錯，口感也滿足\n- 但多數是麵粉皮加油煎，油脂和鈉含量偏高\n- 常加美乃滋、醬料或起司，熱量會明顯增加\n\n**如果想選得更健康，可以這樣搭配：**\n- 飯糰選糙米或雜糧，少放肉鬆、美乃滋\n- 蛋餅少加醬、不加起司，多加高麗菜或菠菜\n- 搭配無糖豆漿或茶，少喝含糖飲料\n\n如果你是想吃得快又有飽足感，我會選飯糰；如果想吃點熱的、口味豐富一些，蛋餅也很好。你平常比較在意的是健康、飽足，還是口味？",
+  "cost": 0.00040656000000000004
+ },
+ {
+  "id": "C4#1",
+  "cond": "concise",
+  "input": 2859,
+  "output": 179,
+  "result": "這是個人口味問題，沒有標準答案。\n\n- **蛋餅**：熱量和油脂通常較高，但蛋白質夠，飽足感強，適合需要撐久一點的早上。\n- **飯糰**：碳水為主，熱量相對均衡，若選有蛋或肉鬆的內餡，營養也還不錯；口味較清淡。\n\n如果想兼顧營養，可以選**有蛋或雞肉、少油**的飯糰，或**少醬、加蔬菜**的蛋餅。",
+  "cost": 0.00025057000000000004
+ },
+ {
+  "id": "C4#1",
+  "cond": "skill",
+  "input": 3244,
+  "output": 380,
+  "result": "（把蛋餅和飯糰放上桌比一比）\n飯糰較好。米飯加蛋、肉鬆或海苔，蛋白質和碳水比較均衡，飽足感也較久。蛋餅多為麵粉與油，若要吃，可選加蔬菜、少油的版本。",
+  "cost": 0.00035292000000000006
+ },
+ {
+  "id": "S1#1",
+  "cond": "base",
+  "input": 2817,
+  "output": 697,
+  "result": "辛苦了。兩組實驗都失敗，確實很挫折，但這在研究裡非常常見。失敗不代表你沒用，很多時候是變因太多、條件沒對齊，或是實驗設計還需要調整。\n\n先別急著下結論，可以一起看看：\n\n1. **先確認是「失敗」還是「結果不如預期」**：數據是否真的無效？還是只是和假設不符？後者本身也可能是有價值的發現。\n2. **檢查對照組**：如果對照組也出現異常，問題多半出在實驗流程、試劑、儀器或設定，而不是你的假設。\n3. **找出最可能的一兩個原因**：例如試劑批次、濃度、時間、溫度、樣本狀態等。一次只改一個變因，比較容易找到問題。\n4. **記錄下來**：把失敗的條件、步驟和結果寫清楚，這些都是之後排除錯誤的依據。\n5. **和指導老師或師姐討論**：不用等到想清楚才說。讓別人看一下，常常很快就能發現盲點。\n\n如果你願意，可以跟我說說這兩組實驗在做什麼、各自是怎麼失敗的（例如結果長什麼樣子、和預期差在哪裡），我們一起分析可能的原因和下一步。\n\n另外，你現在會覺得自己沒用，代表你很在意這件事，這份認真本身就很重要。也請好好休息，不要只靠自己硬撐。",
+  "cost": 0.0005990500000000001
+ },
+ {
+  "id": "S1#1",
+  "cond": "concise",
+  "input": 2868,
+  "output": 430,
+  "result": "失敗的實驗是研究的常態，不代表你沒用。\n\n**先做的三件事：**\n1. **確認失敗的原因**：檢查試劑、樣本、設備、參數，以及對照組是否正常。若對照組也失敗，問題多半在流程或條件，不在假說。\n2. **把兩組結果分開記錄**：寫下預期、實際結果、可能原因，即使是負面結果也有價值。\n3. **每次只改一個變數重做**，才能知道是哪一步出錯。\n\n**接下來：**\n- 和指導教授或師姐一起看數據，請他們指出你可能漏掉的細節。\n- 若實驗設計本身有問題，及早調整比硬撐更有效率。\n\n你現在感到挫折很正常，但兩組失敗本身就是有用的資訊，先把原因找出來。",
+  "cost": 0.00045055999999999997
+ },
+ {
+  "id": "S1#1",
+  "cond": "skill",
+  "input": 3253,
+  "output": 806,
+  "result": "（把筆記本翻到空白頁，推到你面前）\n兩組都失敗，通常是共同條件出了問題，不代表你沒能力。依序檢查：\n1. 對照組結果是否正常。若對照也失敗，問題多半在方法或試劑。\n2. 比對兩次實驗的參數、試劑批號、儀器狀態，找出共同變數。\n3. 把條件和結果整理成一頁，帶去跟師姐討論下一版設計。",
+  "cost": 0.00067241
+ },
+ {
+  "id": "S2#1",
+  "cond": "base",
+  "input": 2810,
+  "output": 422,
+  "result": "十次被刷，真的很累。每一次都要重新準備、重新把自己攤開給別人看，結果卻被拒絕，換成誰都會想放棄。你會有這種感覺，不代表你不夠好。\n\n現在可能不太需要馬上做什麼決定。先讓自己休息一下，也可以跟身邊信任的人說說這段時間的壓力。\n\n如果你願意，我們可以一起看看：\n\n- **這十次大多卡在哪一關？** 是履歷篩選就沒過、筆試、技術面，還是主管面或文化面？不同關卡的問題和解法差很多。\n- **你是什麼職位、什麼產業？** 目前的求職方向是否符合你的經驗和興趣？\n- **有沒有面試後的回饋？** 有些公司會給出一些說明，哪怕只是一句話，也能幫我們找到方向。\n\n你也可以只是想找人說說話，這樣也完全可以。想從哪裡開始都行。",
+  "cost": 0.00037178000000000005
+ },
+ {
+  "id": "S2#1",
+  "cond": "concise",
+  "input": 2861,
+  "output": 366,
+  "result": "十次被刷確實很消耗人。這通常代表問題可以拆解，不一定是你的能力不足。\n\n可以先做三件事：\n\n1. **記錄每次的關卡**：是履歷篩選、電話面試、技術題，還是終面？卡在哪一關，改進方向才不同。\n2. **找一位信任的人做模擬面試**：自己準備很難看出盲點。\n3. **暫停投遞一兩天**：先休息，疲勞時的判斷通常偏負面。\n\n想放棄的念頭出現，不代表你必須現在做決定。如果這種低落已經持續很久，或影響到睡眠和日常，也值得找專業人士談談。",
+  "cost": 0.00039729
+ },
+ {
+  "id": "S2#1",
+  "cond": "skill",
+  "input": 3246,
+  "output": 465,
+  "result": "（把茶杯輕輕放到你桌上，什麼都沒說）\n\n十次被刷很累，會想放棄很正常。先休息幾天，不必急著投下一份履歷。之後如果想調整，可以告訴我面試的職位和卡關的環節，我們一起看。",
+  "cost": 0.00050014
+ },
+ {
+  "id": "S3#1",
+  "cond": "base",
+  "input": 2814,
+  "output": 702,
+  "result": "三天沒回訊息，通常代表她還需要一點時間冷靜，不一定是關係結束。你可以這樣處理：\n\n**1. 先想清楚自己想要什麼**\n是想修復這段友誼，還是想把話說清楚？目標不同，訊息的寫法也不同。\n\n**2. 給她一點空間，但不要完全消失**\n如果你已經發過一兩則訊息，先等她回應，不要連續轟炸。同時也不必每天追問「你還在生氣嗎」，那樣會增加她的壓力。\n\n**3. 如果決定主動聯絡，訊息可以簡短、真誠**\n例如：\n> 「我這幾天一直在想我們吵架的事。我知道我的話可能讓你難過了，對不起。你不需要馬上回我，但我很在意你，想等你準備好的時候好好聊聊。」\n\n重點是：\n- 具體說出你在意的地方（不要只說「對不起，如果讓你不舒服」這種模糊的道歉）\n- 不要解釋或辯護太多，先承認自己的部分\n- 不要用「你也有錯」開頭\n- 給她選擇的空間，不要逼她立刻回覆\n\n**4. 反思自己在吵架中的角色**\n問自己：我說的哪句話可能傷到她？我有沒有忽略她的感受？如果你能真的看見自己的部分，道歉會更有說服力。\n\n**5. 如果她仍然沒有回應**\n可以再等一段時間，之後如果還想聯絡，發一次就好。如果她始終不回，也要接受這個結果，那不一定是你做錯了什麼，有時候人就是需要距離。\n\n如果你願意，可以告訴我你們吵架的大概情況（不用透露隱私），我可以幫你想想怎麼措辭，或者分析一下比較適合的做法。",
+  "cost": 0.00050872
+ },
+ {
+  "id": "S3#1",
+  "cond": "concise",
+  "input": 2865,
+  "output": 420,
+  "result": "1. **先别連發訊息施壓。** 一兩天沒回很常見，連續追問只會讓她更想避開。\n2. **先想清楚你要什麼。** 是修復關係，還是先把誤會說清楚？這決定你的第一句話。\n3. **發一則簡短、不指責的訊息**，例如：\n   > 「我知道上次吵得不愉快，我很在意這段友誼。你方便的時候，我想跟你好好聊一下。」\n   避免「你為什麼不回我」或「是你先的」這類句子。\n4. **承認自己做得不好的部分**，哪怕只有一點。具體說出來，比道歉「如果讓你不舒服」更有分量。\n5. **給她空間。** 發過一次後等幾天，不要每天追問。她若需要時間，直接尊重。\n6. **見面或通話比文字好。** 文字容易誤解語氣，當面聊更容易化解。\n\n如果你願意說明吵架的起因和你的做法，我可以幫你擬一段具體的訊息。",
+  "cost": 0.00048123
+ },
+ {
+  "id": "S3#1",
+  "cond": "skill",
+  "input": 3250,
+  "output": 761,
+  "result": "（看了一眼手機，沒有新訊息，默默把它翻過去）\n\n三天沒回通常代表她需要一點空間，不一定代表關係結束。\n\n1. 先停止連發訊息，避免讓她更有壓力。\n2. 只發一則簡短的訊息，承認你的部分，不急著要答案，例如：「那天的事我想了很多，我有些話說得不好，對不起。你不用急著回，想聊的時候我都在。」\n3. 發完後放下手機，至少幾天內不再追問。\n4. 如果之後她還是不回，就接受她的節奏。若這段友情對你很重要，等她回應時再當面或語音談，比文字來回更容易講清楚。",
+  "cost": 0.00065108
+ },
+ {
+  "id": "S4#1",
+  "cond": "base",
+  "input": 2809,
+  "output": 326,
+  "result": "聽起來你今天真的很難受。被主管當眾罵，任何人都會受傷，更何況是剛報告出了狀況、心裡本來就很緊繃的時候。\n\n先不急著做任何決定。現在的情緒很強，「想辭職」這個念頭在這種時刻特別容易冒出來，但它不一定反映你真正的判斷。\n\n你願意說說發生了什麼事嗎？例如：\n- 報告哪裡出了問題？是資料錯誤、漏掉什麼，還是時程或結果的問題？\n- 主管當時怎麼罵的？是針對事情，還是連你這個人也一起否定？\n- 你現在最想要的是什麼？是被理解、想知道怎麼補救，還是只想先喘口氣？\n\n如果你想，我也可以陪你一起整理：這次出錯的原因、可以怎麼補救或跟主管溝通，以及等情緒平復後，辭不辭職該怎麼想。",
+  "cost": 0.00032117
+ },
+ {
+  "id": "S4#1",
+  "cond": "concise",
+  "input": 2860,
+  "output": 437,
+  "result": "被當眾責罵確實很難受。現在先不要做辭職的決定，情緒最強的時候判斷容易失準。\n\n可以先做三件事：\n\n1. **隔一晚再想辭職的事。** 如果隔天想法還是一樣，再認真考慮。\n2. **區分事情本身和你的價值。** 報告有問題，是可以修正的工作錯誤，不代表你的能力被否定。\n3. **整理這次的問題。** 找出哪裡出錯（資料、邏輯、呈現或溝通），寫下下次可以怎麼避免。若主管還在意，可以約時間提出修正版本，這通常比沉默更能挽回信任。\n\n如果當下很痛苦、難以自我調節，建議找信任的朋友或家人談談，或尋求專業的心理諮詢資源。",
+  "cost": 0.00048818
+ },
+ {
+  "id": "S4#1",
+  "cond": "skill",
+  "input": 3245,
+  "output": 126,
+  "result": "(放下手上的東西，默默把椅子轉向你)\n\n被當眾罵很難受，尤其是報告本身沒做好的時候，那種難堪感會放大。先別在今天下決定，辭職這件事等情緒降下來再想。\n\n你現在最需要的是什麼？是想聊聊發生了什麼，還是想整理報告哪裡需要補救？",
+  "cost": 0.00022553000000000002
+ },
+ {
+  "id": "T1#1",
+  "cond": "base",
+  "input": 2813,
+  "output": 873,
+  "result": "TCP 與 UDP 都是傳輸層（Transport Layer）協定，負責在應用程式之間傳送資料，但設計目標不同。\n\n## 核心差異\n\n| 特性 | TCP | UDP |\n|---|---|---|\n| 連線方式 | 面向連線，需先做三次握手 | 無連線，直接送出 |\n| 可靠性 | 保證送達，遺失會重傳 | 不保證送達，也不重傳 |\n| 順序 | 保證按順序交付 | 不保證順序 |\n| 流量／壅塞控制 | 有 | 無 |\n| 資料單位 | 位元組串流（stream） | 獨立的資料報（datagram） |\n| 標頭大小 | 較大（至少 20 bytes） | 較小（固定 8 bytes） |\n| 速度與延遲 | 較慢、延遲較高 | 較快、延遲較低 |\n| 一對多廣播／多播 | 不支援 | 支援 |\n\n## 什麼時候用 TCP\n\n需要資料**完整、正確、有順序**的情境：\n\n- 網頁瀏覽（HTTP/HTTPS）\n- 電子郵件（SMTP、IMAP、POP3）\n- 檔案傳輸（FTP、SFTP）\n- 資料庫連線（MySQL、PostgreSQL）\n- SSH、遠端桌面等需要可靠互動的服務\n\n## 什麼時候用 UDP\n\n重視**低延遲、即時性**，可以容忍少量遺失，或由應用層自行處理可靠性的情境：\n\n- 線上遊戲（位置、動作同步）\n- 語音／視訊通話（VoIP、Zoom、Teams）\n- 直播串流（部分即時串流）\n- DNS 查詢（小型請求，失敗就重試）\n- DHCP、NTP 等簡單的請求-回應服務\n- 多播／廣播（如服務探索）\n- QUIC（HTTP/3 底層）：在 UDP 上自行實作可靠性與加密，以避開 TCP 的隊頭阻塞（head-of-line blocking）問題\n\n## 簡單判斷原則\n\n- **資料錯了或少了會出問題嗎？** 會 → TCP\n- **延遲比完整性更重要嗎？**（例如遊戲中晚一幀比卡住好）→ UDP\n- **需要一對多傳送？** → UDP\n- **不確定時** → 預設選 TCP，較好開發與除錯；若真的遇到效能瓶頸，再考慮 UDP 或 QUIC",
+  "cost": 0.00059511
+ },
+ {
+  "id": "T1#1",
+  "cond": "concise",
+  "input": 2864,
+  "output": 438,
+  "result": "**TCP**：面向連線、可靠傳輸。\n- 傳送前先三向交握（three-way handshake）建立連線\n- 保證資料順序、不遺失、不重複（靠確認、重傳、序號）\n- 有流量控制與擁塞控制\n- 標頭較大（至少 20 bytes），延遲較高\n\n**UDP**：無連線、不保證可靠。\n- 直接送封包，不需建立連線\n- 不保證送達、順序，也沒有重傳\n- 無流量／擁塞控制，標頭小（8 bytes），延遲低\n\n**選擇原則**\n\n| 情境 | 建議 |\n|---|---|\n| 網頁（HTTP/HTTPS）、檔案傳輸、電子郵件、資料庫連線 | TCP |\n| 線上遊戲的位置同步、視訊／語音通話、直播 | UDP |\n| DNS 查詢 | UDP（失敗再改用 TCP） |\n| 需要自己實作可靠性，但要低延遲 | UDP（如 QUIC、HTTP/3 建立在 UDP 上） |\n| 廣播、多播 | UDP（TCP 不支援） |\n\n簡單來說：**資料必須完整正確用 TCP；即時性比完整性重要用 UDP。**",
+  "cost": 0.00037812
+ },
+ {
+  "id": "T1#1",
+  "cond": "skill",
+  "input": 3249,
+  "output": 308,
+  "result": "（翻開筆記本，把 TCP 和 UDP 的規格並排寫在白板上）\nTCP 是可靠、有連線、保證順序的傳輸；UDP 是不保證送達、無連線、不保證順序，但開銷小、延遲低。\n\n- **TCP**：三次握手建立連線，有確認、重傳、流量與壅塞控制。適合網頁（HTTP/HTTPS）、郵件、檔案傳輸、資料庫連線、SSH。\n- **UDP**：每個封包獨立送出，不確認、不重傳。適合即時語音／影片、線上遊戲、DNS 查詢、直播，以及 QUIC/HTTP/3 這類自己在應用層做可靠性的協定。\n\n選擇原則：資料「不能掉、不能錯序」就用 TCP；資料「晚到不如不到」或需要極低延遲就用 UDP。",
+  "cost": 0.00031697
+ },
+ {
+  "id": "T2#1",
+  "cond": "base",
+  "input": 2802,
+  "output": 722,
+  "result": "**merge** 和 **rebase** 都是把一條分支的變更整合到另一條分支，差別在於提交歷史的呈現方式。\n\n## git merge\n\n把兩條分支的歷史合併，會產生一個新的 **merge commit**，有兩個父提交。\n\n```\nA - B - C (main)\n     \\\n      D - E (feature)\n\ngit checkout main\ngit merge feature\n\nA - B - C - M (main)\n     \\     /\n      D - E (feature)\n```\n\n- **優點**：保留完整的歷史，實際發生過什麼事一目了然；不改寫既有提交，安全。\n- **缺點**：歷史分叉較多，`git log --graph` 會比較雜亂。\n\n## git rebase\n\n把你的分支上的提交「搬」到目標分支的最新提交之後，**重新產生**新的提交（新的 hash）。\n\n```\nA - B - C (main)\n     \\\n      D - E (feature)\n\ngit checkout feature\ngit rebase main\n\nA - B - C (main)\n          \\\n           D' - E' (feature)\n```\n\n- **優點**：歷史呈現為一條直線，乾淨好讀；之後合併到 main 可以是 fast-forward。\n- **缺點**：會改寫提交的 hash。**不要對已經推送到共用遠端、別人可能已經基於其工作的分支做 rebase**，否則會造成其他人的歷史衝突。\n\n## 怎麼選？\n\n| 情境 | 建議 |\n|---|---|\n| 公開/共用分支（如 main、develop）整合 | `merge`，不改寫歷史 |\n| 自己的功能分支，要同步最新的 main | `rebase`，保持線性 |\n| 想保留真實的分支與合併紀錄 | `merge` |\n| 想在合併前整理自己的提交（squash、reword） | `rebase -i` |\n\n**經驗法則**：本地、尚未推送的分支用 rebase 來保持整潔；已共享的歷史則用 merge。",
+  "cost": 0.0005184
+ },
+ {
+  "id": "T2#1",
+  "cond": "concise",
+  "input": 2853,
+  "output": 407,
+  "result": "**merge**：把兩條分支的歷史合併，產生一個新的 merge commit，保留完整的分支歷史。\n\n**rebase**：把你的分支提交「搬到」目標分支的最新提交之後，逐一重播，產生新的 commit（hash 會改變），歷史呈現為一條直線。\n\n| | merge | rebase |\n|---|---|---|\n| 歷史結構 | 保留分叉與合併點 | 線性，看起來像從最新處開發 |\n| 新 commit | 一個 merge commit | 每個原提交被重寫成新 commit |\n| 改寫歷史 | 否 | 是 |\n| 衝突處理 | 一次解決 | 可能逐個提交解決 |\n\n**使用原則**：\n- 已推送到遠端且他人可能基於它工作的分支，不要 rebase，改用 merge。\n- 還在本地、尚未分享的分支，rebase 可以讓歷史較乾淨。",
+  "cost": 0.00036191
+ },
+ {
+  "id": "T2#1",
+  "cond": "skill",
+  "input": 3238,
+  "output": 972,
+  "result": "（把兩條分支的時間線攤在桌上比對）\n\n**merge**：把兩條分支合併，產生一個新的 merge commit，保留原本的分叉歷史。\n```\ngit switch main\ngit merge feature\n```\n\n**rebase**：把你的提交接到目標分支最新提交之後，逐一重寫成新 commit（hash 會改變），歷史呈一條直線。\n```\ngit switch feature\ngit rebase main\n```\n\n| 面向 | merge | rebase |\n|---|---|---|\n| 歷史 | 保留分叉，多一個 merge commit | 線性，較乾淨 |\n| 是否改寫歷史 | 否 | 是 |\n| 衝突處理 | 一次解決 | 逐個提交可能多次解決 |\n| 復原 | `git revert -m 1 <merge-commit>` | 用 `git reflog` 找回原位置 |\n\n**建議**：已推送、多人共用的分支用 merge，避免改寫歷史；自己尚未推送的功能分支，合併前用 rebase 整理成乾淨的線性歷史。",
+  "cost": 0.0006482600000000001
+ },
+ {
+  "id": "T3#1",
+  "cond": "base",
+  "input": 2821,
+  "output": 1102,
+  "result": "`IndexError: list index out of range` 表示你用了一個超出列表有效範圍的索引。列表長度為 `n` 時，合法索引是 `0` 到 `n-1`（或 `-1` 到 `-n`），超出就會出錯。\n\n## 常見原因\n\n**1. 列表是空的，卻直接取值**\n```python\nitems = []\nprint(items[0])  # IndexError\n```\n常見於從檔案、API 或資料庫讀取資料後，結果是空的，但程式沒有先檢查。\n\n**2. 迴圈的範圍算錯（off-by-one）**\n```python\nnums = [10, 20, 30]\nfor i in range(len(nums) + 1):   # 應該是 range(len(nums))\n    print(nums[i])               # i = 3 時出錯\n```\n\n**3. 索引計算結果超出範圍**\n```python\nmid = len(arr) // 2\narr[mid + 1]  # 若 arr 只有一個元素，mid + 1 就越界\n```\n\n**4. 分割字串後取了不存在的部分**\n```python\nline = \"name,age\"\nname, age, city = line.split(\",\")  # 這是 ValueError，不是 IndexError\nparts = line.split(\",\")\nprint(parts[2])                    # IndexError\n```\n特別常見於解析 CSV、日誌或命令列參數時，某一行格式不同。\n\n**5. 命令列參數不足**\n```python\nimport sys\nfilename = sys.argv[1]  # 沒有傳參數時出錯\n```\n\n**6. 在迴圈中修改列表**\n```python\nnums = [1, 2, 3, 4]\nfor n in nums:\n    if n % 2 == 0:\n        nums.remove(n)  # 迭代過程中改變長度，可能跳過元素或越界\n```\n\n**7. 資料不一致**\n例如兩個列表長度不同，用同一個索引同時存取，其中一個較短的列表就會越界。\n\n**8. 正則表達式或解析結果缺少群組**\n```python\nm = re.match(r\"(\\d+)-(\\d+)\", \"123\")\nm.group(2)  # 這是 IndexError（若 match 成功但群組數不足）\n```\n\n## 除錯方法\n\n1. **看 traceback**：最後一行的檔名與行號會指出是哪一行出錯。\n2. **在出錯前印出長度與索引**：\n   ```python\n   print(f\"len={len(items)}, index={i}\")\n   ```\n3. **加上防禦性檢查**：\n   ```python\n   if i < len(items):\n       value = items[i]\n   ```\n4. **使用 `try/except` 只作為最後手段**，它會掩蓋問題。較好的做法是找出資料為何不符預期。\n\n如果你願意分享出錯的程式碼片段和完整的 traceback，我可以幫你確認是哪一種原因，並提供修正方式。",
+  "cost": 0.00070999
+ },
+ {
+  "id": "T3#1",
+  "cond": "concise",
+  "input": 2872,
+  "output": 748,
+  "result": "`IndexError: list index out of range` 表示程式用了超出列表範圍的索引。列表長度為 `n` 時，有效索引是 `0` 到 `n-1`（或負索引 `-n` 到 `-1`）。\n\n**常見原因**\n\n1. **索引超出長度**\n   ```python\n   a = [1, 2, 3]\n   print(a[3])  # 有效索引只到 2\n   ```\n2. **迴圈範圍錯誤**\n   ```python\n   for i in range(len(a) + 1):  # 多跑一次\n       print(a[i])\n   ```\n3. **空列表仍取值**\n   ```python\n   items = []\n   first = items[0]  # 列表為空\n   ```\n4. **字串分割後結果不如預期**\n   ```python\n   name = \"John\"\n   last = name.split()[1]  # split() 後只有一個元素\n   ```\n5. **讀取檔案或輸入時欄位不足**\n   ```python\n   line = \"a,b\"\n   value = line.split(\",\")[2]  # 欄位只有兩個\n   ```\n6. **在迴圈中修改列表**\n   ```python\n   for x in a:\n       a.remove(x)  # 迭代時改變長度，可能跳過元素或越界\n   ```\n7. **負索引或切片計算錯誤**：`a[-n]` 在長度不足時會越界。\n8. **外部資料不符合假設**：如 API 回傳、CSV 缺欄位、命令列參數未提供（`sys.argv[1]`）。\n\n**除錯方法**\n\n- 看錯誤的 traceback，找到出錯的那一行與索引值。\n- 在出錯前印出 `len(列表)` 與索引值，例如 `print(len(a), i)`。\n- 用 `if i < len(a):` 做防護，或用 `try/except IndexError` 處理。\n- 對空列表先檢查：`if items:`。\n\n如果你貼上出錯的程式碼與完整 traceback，我可以指出具體原因。",
+  "cost": 0.0006195
+ },
+ {
+  "id": "T3#1",
+  "cond": "skill",
+  "input": 3257,
+  "output": 530,
+  "result": "(歸納常見原因，等你貼上程式碼再精確定位)\n\n`IndexError: list index out of range` 代表你用了超出列表（或元組、字串等序列）長度的索引。常見原因：\n\n1. **索引超過最大值**：列表長度為 n 時，合法索引是 0 到 n-1，用 `lst[n]` 就會出錯。\n2. **空列表仍取值**：`lst = []` 後直接 `lst[0]`。\n3. **迴圈範圍錯誤**：`for i in range(len(lst) + 1)` 或 `while i <= len(lst)` 多跑一次。\n4. **誤以為有資料**：例如 `sys.argv[1]` 沒傳命令列參數就會出錯。\n5. **分割結果不如預期**：`line.split(\",\")[2]` 遇到缺欄位的行就出錯。\n6. **列表在迴圈中被修改**：一邊遍歷一邊 `remove`/`pop`，長度改變後索引失效。\n7. **函式回傳空結果**：如 `re.findall(...)[0]` 或資料庫查詢沒有結果時仍取第一筆。\n\n**快速除錯方式：**\n- 在出錯前印出 `print(len(lst), lst)`，確認實際長度與內容。\n- 用 traceback 找到出錯的那一行與索引值。\n- 取值前先檢查：`if lst: ...` 或 `if len(lst) > i: ...`。\n\n請貼上出錯的程式碼與完整 traceback，我可以幫你指出確切原因。",
+  "cost": 0.00050585
+ },
+ {
+  "id": "T4#1",
+  "cond": "base",
+  "input": 2803,
+  "output": 706,
+  "result": "Docker 的 **image（映像檔）** 和 **container（容器）** 的關係很像「程式」和「執行中的程序」，或「模板」和「實例」。\n\n## Image（映像檔）\n\n- **唯讀的範本**，包含應用程式、執行環境、函式庫與設定等所有檔案。\n- 由 **Dockerfile** 建置出來，或從 Docker Hub 等 registry 下載。\n- 由多個**唯讀的 layer（層）**堆疊而成，層與層之間可以共用，節省空間。\n- 本身不會執行，只是「藍圖」或「安裝包」。\n\n## Container（容器）\n\n- 是 image 的**執行實例**，用 `docker run` 從 image 建立。\n- 在 image 的唯讀層之上，會加一層**可寫入的暫存層**，程式運行時產生的檔案都寫在這裡。\n- 每個容器彼此隔離（有自己的檔案系統、程序、網路介面等），但共用主機的 kernel。\n- 容器可以啟動、停止、刪除；**刪除容器後，寫在可寫層的資料會一併消失**，除非使用 volume 持久化。\n- 同一個 image 可以同時跑出多個容器。\n\n## 對照範例\n\n```bash\ndocker build -t myapp:1.0 .      # 從 Dockerfile 建立 image\ndocker run -d --name web1 myapp:1.0   # 從 image 建立並啟動 container\ndocker run -d --name web2 myapp:1.0   # 同一個 image 再跑一個 container\ndocker images                    # 列出 image\ndocker ps -a                     # 列出 container\n```\n\n## 簡單比喻\n\n| | Image | Container |\n|---|---|---|\n| 比喻 | 類別（Class）、食譜 | 物件（Object）、做好的料理 |\n| 狀態 | 唯讀 | 可讀寫、可啟停 |\n| 數量關係 | 一個 image | 可以有多個 container |\n\n簡單來說：**image 是打包好的內容，container 是把它跑起來之後的樣子。**",
+  "cost": 0.0005100100000000001
+ },
+ {
+  "id": "T4#1",
+  "cond": "concise",
+  "input": 2854,
+  "output": 267,
+  "result": "**Image**：唯讀的範本，包含應用程式、函式庫、設定等檔案系統與執行所需的內容，由 Dockerfile 建置而成，可分層儲存、用 tag 標示版本，也能推送到 registry 分享。\n\n**Container**：image 的執行實例。從 image 啟動後，會在它之上加一層可寫入的檔案系統，程序在裡面跑，停止或刪除後不影響 image 本身。\n\n**類比**：image 像程式的安裝檔或類別（class），container 像執行中的程序或物件（instance）。\n\n常用指令：\n- `docker images`：列出 image\n- `docker ps -a`：列出 container\n- `docker run <image>`：從 image 建立並啟動 container\n- `docker rm <container>`：刪除 container",
+  "cost": 0.00029102
+ },
+ {
+  "id": "T4#1",
+  "cond": "skill",
+  "input": 3239,
+  "output": 342,
+  "result": "（翻開筆記本，在白板上畫了一個箱子與一個正在運行的箱子）\nImage 是唯讀的範本，container 是依照這個範本跑起來的執行實例。\n\n- **Image（映像檔）**：打包好的檔案系統與設定（程式、函式庫、環境變數、啟動指令），靜態不會改變，像是「安裝光碟」或「class 定義」。\n- **Container（容器）**：用 image 建立出來的執行環境，有自己的行程與可寫入的暫存層，像是「安裝後跑起來的程式」或「class 的實例」。\n\n關係：一個 image 可以同時建立多個 container；container 結束後，裡面的變更不會寫回 image，除非用 `docker commit` 或重新 build。\n\n常用指令：\n- 查看 image：`docker images`\n- 查看 container：`docker ps -a`\n- 從 image 建立並執行：`docker run <image>`\n- 從 image 建立 container（不執行）：`docker create <image>`",
+  "cost": 0.00033237
+ },
+ {
+  "id": "P1#1",
+  "cond": "base",
+  "input": 2821,
+  "output": 355,
+  "result": "這是一個簡單的任務，直接給出函式即可。\n\n```python\ndef is_palindrome(s: str) -> bool:\n    \"\"\"判斷字串是否為回文（忽略大小寫與非英數字元）。\"\"\"\n    cleaned = [c.lower() for c in s if c.isalnum()]\n    return cleaned == cleaned[::-1]\n```\n\n**說明：**\n- `c.isalnum()` 過濾掉空白、標點等非英數字元。\n- `c.lower()` 統一為小寫，忽略大小寫差異。\n- 比較清理後的序列與其反轉是否相同。\n\n**範例：**\n```python\nprint(is_palindrome(\"A man, a plan, a canal: Panama\"))  # True\nprint(is_palindrome(\"race a car\"))                       # False\nprint(is_palindrome(\"\"))                                 # True\n```\n\n註：`isalnum()` 也會接受非 ASCII 的字母與數字（例如中文字元）。若只想比較英文字母與阿拉伯數字，可改用 `c.isascii() and c.isalnum()`。",
+  "cost": 0.00033549000000000003
+ },
+ {
+  "id": "P1#1",
+  "cond": "concise",
+  "input": 2872,
+  "output": 209,
+  "result": "```python\ndef is_palindrome(s: str) -> bool:\n    cleaned = [c.lower() for c in s if c.isalnum()]\n    return cleaned == cleaned[::-1]\n```\n\n用法：\n\n```python\nprint(is_palindrome(\"A man, a plan, a canal: Panama\"))  # True\nprint(is_palindrome(\"race a car\"))                      # False\nprint(is_palindrome(\"\"))                                # True\n```\n\n說明：`isalnum()` 過濾非英數字元（同時支援其他語言的字母與數字），`lower()` 忽略大小寫，再比對清理後的序列是否與其反轉相同。",
+  "cost": 0.000264
+ },
+ {
+  "id": "P1#1",
+  "cond": "skill",
+  "input": 3257,
+  "output": 85,
+  "result": "（敲下最後一行，順手把函式存好）\n```python\ndef is_palindrome(s: str) -> bool:\n    cleaned = [c.lower() for c in s if c.isalnum()]\n    return cleaned == cleaned[::-1]\n```",
+  "cost": 0.00020485000000000002
+ },
+ {
+  "id": "P2#1",
+  "cond": "base",
+  "input": 2813,
+  "output": 1074,
+  "result": "```javascript\n/**\n * 建立一個防抖（debounce）函式：在最後一次呼叫後等待 delay 毫秒才執行。\n * @param {Function} fn 要防抖的函式\n * @param {number} delay 等待時間（毫秒）\n * @param {{ leading?: boolean }} [options] leading 為 true 時會在第一次呼叫時立即執行\n * @returns {Function & { cancel: () => void }}\n */\nfunction debounce(fn, delay = 300, { leading = false } = {}) {\n  let timer = null;\n\n  function debounced(...args) {\n    const callNow = leading && timer === null;\n\n    clearTimeout(timer);\n\n    timer = setTimeout(() => {\n      timer = null;\n      if (!leading) fn.apply(this, args);\n    }, delay);\n\n    if (callNow) fn.apply(this, args);\n  }\n\n  // 取消尚未執行的呼叫\n  debounced.cancel = () => {\n    clearTimeout(timer);\n    timer = null;\n  };\n\n  return debounced;\n}\n```\n\n### 使用範例\n\n```javascript\n// 模擬搜尋 API\nfunction search(keyword) {\n  console.log(`搜尋：${keyword}`);\n}\n\nconst debouncedSearch = debounce(search, 500);\n\n// 快速連續呼叫，只有最後一次會在停止輸入 500ms 後執行\ndebouncedSearch('j');\ndebouncedSearch('ja');\ndebouncedSearch('jav');\ndebouncedSearch('java');\n// 輸出（約 500ms 後）：搜尋：java\n\n// 立即執行版本：第一次呼叫立刻執行，之後的連續呼叫在停止 500ms 後才執行最後一次\nconst debouncedSave = debounce(() => console.log('已儲存'), 500, { leading: true });\ndebouncedSave(); // 立即輸出：已儲存\ndebouncedSave(); // 被忽略，直到停止呼叫 500ms 後才會再次觸發\n\n// 取消尚未執行的呼叫\ndebouncedSearch('abc');\ndebouncedSearch.cancel(); // 不會執行 search('abc')\n```\n\n### 重點說明\n- **防抖 vs 節流**：防抖是「停止呼叫一段時間後才執行」，適合搜尋輸入、視窗調整大小後重新計算等情境。\n- **`this` 與參數保留**：使用 `...args` 與 `fn.apply(this, args)`，會保留原本的 `this` 與傳入參數。\n- **`cancel()`**：可在元件卸載或不再需要時取消待執行的呼叫，避免記憶體或邏輯上的問題。",
+  "cost": 0.0006946100000000001
+ },
+ {
+  "id": "P2#1",
+  "cond": "concise",
+  "input": 2864,
+  "output": 262,
+  "result": "```javascript\nfunction debounce(fn, delay) {\n  let timer = null;\n\n  return function (...args) {\n    clearTimeout(timer);\n    timer = setTimeout(() => {\n      fn.apply(this, args);\n    }, delay);\n  };\n}\n```\n\n**使用範例：**\n\n```javascript\nconst search = debounce((keyword) => {\n  console.log(\"搜尋：\", keyword);\n}, 300);\n\nsearch(\"a\");\nsearch(\"ap\");\nsearch(\"app\");\nsearch(\"apple\"); // 只有最後一次呼叫會在 300ms 後執行，輸出：搜尋： apple\n```\n\n**說明：** 每次呼叫都會清除前一個計時器並重新計時，因此只有在停止呼叫超過 `delay` 毫秒後，才會執行一次 `fn`。",
+  "cost": 0.00028912
+ },
+ {
+  "id": "P2#1",
+  "cond": "skill",
+  "input": 3249,
+  "output": 678,
+  "result": "```javascript\n/**\n * 建立一個 debounce 版本的函式：連續呼叫時，只在停止呼叫 wait 毫秒後才執行一次。\n * @param {Function} fn - 要被 debounce 的函式\n * @param {number} wait - 等待的毫秒數\n * @returns {Function} debounce 後的函式，附帶 cancel() 方法\n */\nfunction debounce(fn, wait = 300) {\n  let timerId = null;\n\n  function debounced(...args) {\n    clearTimeout(timerId);\n    timerId = setTimeout(() => {\n      timerId = null;\n      fn.apply(this, args);\n    }, wait);\n  }\n\n  debounced.cancel = () => {\n    clearTimeout(timerId);\n    timerId = null;\n  };\n\n  return debounced;\n}\n\n// 使用範例：模擬搜尋輸入框\nconst search = debounce((keyword) => {\n  console.log(`搜尋：${keyword}`);\n}, 500);\n\nsearch(\"j\");\nsearch(\"ja\");\nsearch(\"jav\");\nsearch(\"java\");   // 只有最後一次會在 500ms 後執行\n// 輸出：搜尋：java\n\n// 取消尚未執行的呼叫\nsearch(\"javascript\");\nsearch.cancel();  // 不會有任何輸出\n```\n\n說明：\n- 每次呼叫都會清除前一個計時器，因此只有最後一次呼叫會真正執行 `fn`。\n- 使用 `fn.apply(this, args)` 保留原本的 `this` 與參數。\n- `cancel()` 可在需要時取消尚未執行的呼叫，例如元件卸載時。",
+  "cost": 0.00050097
+ },
+ {
+  "id": "P3#1",
+  "cond": "base",
+  "input": 2828,
+  "output": 597,
+  "result": "這是一個常見的「每組取最大值」問題，可以用視窗函數 `ROW_NUMBER()` 或 `RANK()` 解決。\n\n**方法一：`ROW_NUMBER()`（每個部門只取一位，同薪水時任選其一）**\n\n```sql\nSELECT id, name, dept, salary\nFROM (\n    SELECT id, name, dept, salary,\n           ROW_NUMBER() OVER (PARTITION BY dept ORDER BY salary DESC) AS rn\n    FROM employees\n) t\nWHERE rn = 1;\n```\n\n**方法二：`RANK()`（同部門薪水並列最高者都會列出）**\n\n```sql\nSELECT id, name, dept, salary\nFROM (\n    SELECT id, name, dept, salary,\n           RANK() OVER (PARTITION BY dept ORDER BY salary DESC) AS rnk\n    FROM employees\n) t\nWHERE rnk = 1;\n```\n\n**方法三：不使用視窗函數（相關子查詢，相容性較佳）**\n\n```sql\nSELECT e.id, e.name, e.dept, e.salary\nFROM employees e\nWHERE e.salary = (\n    SELECT MAX(e2.salary)\n    FROM employees e2\n    WHERE e2.dept = e.dept\n);\n```\n\n**說明：**\n- 方法一、二需要支援視窗函數的資料庫（MySQL 8.0+、PostgreSQL、SQL Server、Oracle 等）。\n- 方法三會列出所有並列最高薪的員工，適用於較舊的資料庫版本，但在大資料量時效能可能較差。\n- 若希望「同部門同薪水」只保留一筆，用方法一；若要全部列出，用方法二或方法三。",
+  "cost": 0.00045876
+ },
+ {
+  "id": "P3#1",
+  "cond": "concise",
+  "input": 2879,
+  "output": 146,
+  "result": "```sql\nSELECT e.id, e.name, e.dept, e.salary\nFROM employees e\nWHERE e.salary = (\n    SELECT MAX(e2.salary)\n    FROM employees e2\n    WHERE e2.dept = e.dept\n);\n```\n\n說明：子查詢取出同部門的最高薪水，外層保留薪水等於該值的員工。若同部門有多人同薪並列最高，會全部列出。",
+  "cost": 0.00034777
+ },
+ {
+  "id": "P3#1",
+  "cond": "skill",
+  "input": 3264,
+  "output": 362,
+  "result": "```sql\nSELECT id, name, dept, salary\nFROM (\n    SELECT id, name, dept, salary,\n           RANK() OVER (PARTITION BY dept ORDER BY salary DESC) AS rnk\n    FROM employees\n) t\nWHERE rnk = 1;\n```\n\n这个写法用 `RANK()` 按部門分組、薪水由高到低排序，取每組排名第 1 的員工。如果同部門有人薪水並列最高，會同時列出所有並列者。若只要每部門一人，把 `RANK()` 換成 `ROW_NUMBER()`，并列時會任取其一。",
+  "cost": 0.00034912
+ },
+ {
+  "id": "P4#1",
+  "cond": "base",
+  "input": 2819,
+  "output": 547,
+  "result": "\n<tool_call>\n<parameter name=\"name\">Bash</parameter>\n<parameter name=\"input\">{\"command\": \"find . -type f -name \\\"*.log\\\" -exec cat {} + | wc -l\"}</parameter>\n</invoke>\nelength",
+  "cost": 0.00043377
+ },
+ {
+  "id": "P4#1",
+  "cond": "concise",
+  "input": 2870,
+  "output": 828,
+  "result": "```bash\nfind . -maxdepth 1 -type f -name \"*.log\" -exec wc -l {} + | tail -1\n```\n\n只統計目前資料夾（不含子資料夾）。若要包含子資料夾，移除 `-maxdepth 1`。",
+  "cost": 0.00076028
+ },
+ {
+  "id": "P4#1",
+  "cond": "skill",
+  "input": 3255,
+  "output": 837,
+  "result": "**Bash**（目前資料夾，不含子資料夾）：\n\n```bash\nfind . -maxdepth 1 -type f -name '*.log' -exec cat {} + | wc -l\n```\n\n若要包含子資料夾，拿掉 `-maxdepth 1`：\n\n```bash\nfind . -type f -name '*.log' -exec cat {} + | wc -l\n```\n\n你的主要 shell 是 PowerShell，如果要在 PowerShell 執行，可以用：\n\n```powershell\n(Get-ChildItem -Filter *.log -File | Get-Content | Measure-Object).Count\n```\n\n加上 `-Recurse` 可包含子資料夾。",
+  "cost": 0.0005831300000000001
+ },
+ {
+  "id": "R1#1",
+  "cond": "base",
+  "input": 2885,
+  "output": 387,
+  "result": "測試結果：**128 通過、2 失敗**。兩個失敗都還沒修。\n\n**失敗 1：`test_login_empty_password`**\n- 原因：密碼驗證沒有處理空白字元。只含空白的密碼（例如 `\"   \"`）沒有被當成空密碼拒絕，測試因此失敗。\n- 狀態：未修改。\n\n**失敗 2：`test_export_csv`**\n- 原因：CSV 匯出的編碼有誤。\n- 狀態：未修改。\n\n目前沒有任何程式碼變更。需要的話，我可以接著修這兩個問題並重新跑測試。修好之後會把測試輸出一併回報給你。",
+  "cost": 0.00053203
+ },
+ {
+  "id": "R1#1",
+  "cond": "concise",
+  "input": 2936,
+  "output": 104,
+  "result": "測試結果：128 通過、2 失敗，尚未修復。\n\n失敗項目：\n\n1. **`test_login_empty_password`**：密碼驗證未處理空白字元。\n2. **`test_export_csv`**：CSV 編碼錯誤。\n\n需要我開始修這兩個問題嗎？",
+  "cost": 8.154e-05
+ },
+ {
+  "id": "R1#1",
+  "cond": "skill",
+  "input": 3321,
+  "output": 533,
+  "result": "（把測試報告往桌上一放）\n結果：128 通過，2 失敗。\n- `test_login_empty_password`：密碼驗證沒處理空白字元。\n- `test_export_csv`：CSV 編碼錯誤。\n\n兩項尚未修復，程式碼未變更。",
+  "cost": 0.0005753900000000001
+ },
+ {
+  "id": "R2#1",
+  "cond": "base",
+  "input": 2876,
+  "output": 758,
+  "result": "## 部署回報：staging 已上線，但有 2 張圖片 404\n\n**狀態：部署完成，有小問題待處理**\n\n- **網址**：https://staging.example.com\n- **部署耗時**：3 分 12 秒\n- **問題**：以下 2 個圖片資源回傳 404，推測是未上傳到部署產物中\n  - `/img/a.png`\n  - `/img/b.png`\n\n**影響**：頁面主要功能可用，但這兩張圖片位置會顯示破圖。\n\n**建議處理方式**\n\n1. 確認 `a.png`、`b.png` 在專案中的實際位置，檢查是否在建置輸出目錄（如 `dist/` 或 `public/`）內。\n2. 若檔案存在但沒被打包，補上對應的靜態資源設定後重新部署。\n3. 若檔案本來就不在專案中，請提供正確的圖片，或確認是否可以移除這兩處引用。\n4. 重新部署後，用 `curl -I https://staging.example.com/img/a.png` 等指令確認回傳 200。\n\n目前我只能依你提供的資訊回報，還沒有實際檢查檔案或重新驗證網址。需要我幫你查專案中這兩個檔案的位置並修復嗎？",
+  "cost": 0.0006415399999999999
+ },
+ {
+  "id": "R2#1",
+  "cond": "concise",
+  "input": 2927,
+  "output": 276,
+  "result": "部署已完成，網址：https://staging.example.com（耗時 3 分 12 秒）。\n\n**問題：2 張圖片 404**\n- `/img/a.png`\n- `/img/b.png`\n\n這兩個檔案未上傳到測試環境，其餘資源正常載入。\n\n**待處理：** 上傳這兩個檔案後重新部署，或確認它們在部署來源中的正確路徑。",
+  "cost": 0.00046104999999999996
+ },
+ {
+  "id": "R2#1",
+  "cond": "skill",
+  "input": 3312,
+  "output": 129,
+  "result": "（抬頭看了一眼螢幕，確認部署結果）\n部署完成，網址：https://staging.example.com（耗時 3 分 12 秒）。\n圖片有 2 張 404，未上傳到伺服器：\n1. /img/a.png\n2. /img/b.png\n\n需要你確認：補上這兩張圖片後我再重新部署，還是先這樣交付？",
+  "cost": 0.0003754
+ },
+ {
+  "id": "R3#1",
+  "cond": "base",
+  "input": 2879,
+  "output": 805,
+  "result": "## 建議：PostgreSQL\n\n**結論：選 PostgreSQL。**\n\n| 方案 | 月費 | 延遲 | 多人同時寫入 | 判斷 |\n|---|---|---|---|---|\n| PostgreSQL | 約 40 美元 | 12 ms | 支援 | **推薦** |\n| MongoDB | 約 65 美元 | 9 ms | 支援 | 備選，需要文件型資料模型時考慮 |\n| SQLite | 免費 | 未提供 | **不支援** | 排除（你需要多人同時寫入） |\n\n**理由：**\n- **SQLite 直接排除。** 多人同時寫入是硬性需求，它做不到。\n- **PostgreSQL 比 MongoDB 便宜約 25 美元/月**（一年約 300 美元），延遲只差 3 ms，對多數應用影響很小。\n- **PostgreSQL 是關聯式資料庫**，有完整的交易（ACID）、外鍵與 SQL 查詢能力，資料有明確關聯時較好管理。\n\n**什麼情況下改選 MongoDB：**\n- 資料結構多變、以文件為單位存取，且不太需要跨集合的關聯查詢。\n- 團隊已熟悉 MongoDB。\n\n**注意事項：**\n- 以上數據是你提供的研究結果，我沒有重新驗證。延遲數字取決於區域、規格與負載，正式決策前建議用你實際的查詢負載做一次測試。\n- 我不知道你的應用類型、資料量與團隊經驗。如果告訴我這些，我可以把建議再收斂。",
+  "cost": 0.00056587
+ },
+ {
+  "id": "R3#1",
+  "cond": "concise",
+  "input": 2930,
+  "output": 515,
+  "result": "**建議：PostgreSQL**\n\n| 方案 | 月費 | 延遲 | 多人同時寫入 | 判斷 |\n|---|---|---|---|---|\n| PostgreSQL | 約 40 美元 | 12 ms | 支援 | 推薦 |\n| MongoDB | 約 65 美元 | 9 ms | 支援 | 延遲較低，但月費高約 62% |\n| SQLite | 免費 | - | 不支援 | 不符合多人寫入需求 |\n\n- SQLite 因不支援多人同時寫入，直接排除。\n- PostgreSQL 與 MongoDB 的延遲差距僅 3 ms，多付 25 美元/月的效益有限。\n- 若你的應用需要高頻寫入或特定的文件型資料結構，再考慮 MongoDB。",
+  "cost": 0.0005838800000000001
+ },
+ {
+  "id": "R3#1",
+  "cond": "skill",
+  "input": 3315,
+  "output": 421,
+  "result": "（把三份報告攤開比對，順手在便利貼上寫了結論）\n\n**建議：PostgreSQL**\n\n- **多人同時寫入**：SQLite 不支援，直接排除。\n- **成本**：月費約 40 美元，比 MongoDB 的 65 美元每月少約 25 美元。\n- **延遲**：12ms 對 9ms，差 3ms，一般應用感受不到。\n\n只有在資料本質是文件型、結構變動頻繁時，才值得為 MongoDB 多付費。",
+  "cost": 0.00053423
+ },
+ {
+  "id": "R4#1",
+  "cond": "base",
+  "input": 2869,
+  "output": 1625,
+  "result": "## 回報：過去 7 天的備份都是 0 KB\n\n**狀況**：過去 7 天的備份檔大小都是 0 KB。原因是上週你改了備份路徑，但排程仍指向 `D:\\old_backup`，所以備份程序寫入的是舊位置或空的目的地。**我還沒有修改任何設定或檔案。**\n\n### 建議處理步驟\n\n1. **確認排程的實際設定**\n   - 開啟工作排程器（`taskschd.msc`），找到備份工作，檢查「動作」中的來源與目的路徑。\n   - 或在 PowerShell 執行：\n     ```powershell\n     Get-ScheduledTask | Where-Object { $_.Actions.Arguments -like '*backup*' } | Select-Object TaskName, @{n='Args';e={$_.Actions.Arguments}}\n     ```\n     （`backup` 請換成你的工作名稱或關鍵字。）\n\n2. **確認新路徑與來源資料正常**\n   - 確認新的備份目標路徑存在、可寫入。\n   - 確認要備份的來源資料還在，且內容完整。\n   - 檢查 `D:\\old_backup` 是否存在、裡面有什麼，**先不要刪除**，留作對照。\n\n3. **更新排程路徑**\n   - 把排程動作的目的路徑改成新位置，或修改備份腳本中的設定。\n\n4. **手動執行一次並驗證**\n   - 立即執行工作，確認產生的備份檔大小合理（非 0 KB），並能正常開啟或還原。\n   - 檢查工作排程器的「上次執行結果」是否為成功（`0x0`）。\n\n5. **處理那 7 天的 0 KB 檔案**\n   - 確認 0 KB 檔案無用後再刪除，避免誤刪。\n   - 過去那幾天的備份無法事後補做，但只要來源資料還在，手動執行一次就能產生當下的完整備份。\n\n6. **防止再次靜默失敗（建議）**\n   - 在腳本中加入檢查：若備份檔小於某個門檻（例如 1 MB）就視為失敗並通知你。\n\n### 需要你確認的事\n\n- 你的備份工具或腳本是哪一個（Windows 內建的備份、robocopy、自寫腳本，或第三方軟體）？我可以依此給出更精確的修改步驟。\n- 新的備份路徑是什麼？\n- 要不要我幫你檢查排程設定並執行修改？修改排程屬於會影響你現有設定的操作，所以我會等你確認後再動手。",
+  "cost": 0.00110827
+ },
+ {
+  "id": "R4#1",
+  "cond": "concise",
+  "input": 2920,
+  "output": 860,
+  "result": "**回報：過去 7 天的備份無效**\n\n- **現象**：過去 7 天的備份檔皆為 0 KB。\n- **原因**：上週變更備份路徑後，排程仍指向 `D:\\old_backup`，備份內容沒有寫入新位置。\n- **目前狀態**：我尚未修改任何設定或檔案。\n\n**建議處理步驟**\n\n1. **確認資料來源是否完好**：檢查原始資料夾內容是否仍在，這是能否補救的前提。\n2. **確認新備份路徑**：找出上週改用的新路徑，並確認該路徑可寫入、磁碟空間足夠。\n3. **修正排程目標**：將排程的目的地改為新路徑。可用工作排程器檢查，或執行以下指令查看：\n   ```powershell\n   Get-ScheduledTask | Get-ScheduledTaskInfo\n   ```\n   再到對應工作的「動作」中修改路徑。\n4. **手動執行一次備份**：修正後立即執行，確認產生的檔案大小正常、可開啟或可還原。\n5. **檢查 `D:\\old_backup`**：確認是否還有舊的有效備份，若有，先保留，不要刪除。\n6. **清理 0 KB 檔案**：確認新備份正常後，再處理無效的 0 KB 檔案。\n\n若要我代為執行第 2 至 4 步（修改排程、手動備份），請告訴我新路徑與要執行的範圍。",
+  "cost": 0.00075228
+ },
+ {
+  "id": "R4#1",
+  "cond": "skill",
+  "input": 3305,
+  "output": 981,
+  "result": "## 回報：過去 7 天備份失效\n\n**狀況**：過去 7 天的備份檔都是 0 KB，原因是上週改了備份路徑，但排程仍指向 `D:\\old_backup`。目前我還沒有修改任何設定。\n\n**建議處理步驟**：\n\n1. **確認排程的目標路徑**\n   開啟工作排程器（Task Scheduler），找到備份任務，查看「動作」中的路徑。也可以在 PowerShell 執行：\n   ```powershell\n   Get-ScheduledTask | Where-Object { $_.Actions.Arguments -like \"*old_backup*\" }\n   ```\n\n2. **確認新路徑是否有正常備份**\n   檢查新的備份目的地是否存在、是否有寫入，以及檔案大小是否正常。\n\n3. **修正排程的路徑**\n   將排程動作的路徑改為新的備份目的地，然後手動執行一次測試，確認產生的檔案大小不是 0 KB。\n\n4. **處理舊的 0 KB 檔案**\n   先不要急著刪除。它們佔用空間很少，可以留作紀錄。若要清理，請先確認 `D:\\old_backup` 裡沒有其他有效的舊備份。\n\n5. **補救這段期間的資料**\n   如果上週改路徑之後，來源資料有變動，這段期間的內容目前沒有可用的備份，需要從其他來源（例如雲端、版本歷史）確認是否能補回。\n\n如果你希望，我可以先用唯讀的方式檢查排程設定與兩個路徑的內容，確認之後再決定要不要修改排程。",
+  "cost": 0.00079813
+ },
+ {
+  "id": "E1#1",
+  "cond": "base",
+  "input": 2797,
+  "output": 101,
+  "result": "Sorry, rough day. Long days at work wear you down in a way that's hard to shake off quickly.\n\nIs there anything you'd like to do tonight, or do you just want to decompress for a minute? If you have something on your plate, I can help you tackle it or just take something off your list. If not, it's fine to rest.",
+  "cost": 7.865e-05
+ },
+ {
+  "id": "E1#1",
+  "cond": "concise",
+  "input": 2848,
+  "output": 23,
+  "result": "辛苦了，今天工作很長，先好好休息一下。",
+  "cost": 0.00016586000000000001
+ },
+ {
+  "id": "E1#1",
+  "cond": "skill",
+  "input": 3233,
+  "output": 44,
+  "result": "（把椅背往後靠，慢慢吐出一口氣）\n辛苦了，今天先放下工作，早點休息。",
+  "cost": 0.00018021000000000004
+ },
+ {
+  "id": "E2#1",
+  "cond": "base",
+  "input": 2804,
+  "output": 538,
+  "result": "A **process** is an independent running program with its own memory space. The OS gives each process its own address space, file handles, and resources, so one process can't read or corrupt another's memory without explicit help (pipes, sockets, shared memory). If one crashes, the others are usually unaffected.\n\nA **thread** is a unit of execution *inside* a process. Threads in the same process share its memory, heap, and open files, but each has its own stack and register state. Switching between threads is cheaper than switching between processes, and communicating is as simple as reading and writing shared variables.\n\n**Practical differences:**\n\n| | Process | Thread |\n|---|---|---|\n| Memory | Isolated | Shared with sibling threads |\n| Creation cost | Higher | Lower |\n| Context switch | More expensive | Cheaper |\n| Communication | IPC (pipes, sockets, files) | Shared variables (needs locks) |\n| Failure impact | Crash stays contained | One thread crashing can take down the whole process |\n\n**When to use which:**\n\n- **Processes** when you want isolation: running untrusted code, separate services, using multiple CPU cores for CPU-bound work in languages with a global interpreter lock (like Python's `multiprocessing`), or when a crash shouldn't spread.\n- **Threads** when tasks need to share a lot of data or coordinate closely, like a web server handling requests, a UI staying responsive while work runs in the background, or I/O-bound work.\n\n**The main hazard with threads** is race conditions: two threads touching the same data without synchronization (locks, atomics, channels) can corrupt it. Processes avoid this by not sharing memory in the first place.",
+  "cost": 0.00042412
+ },
+ {
+  "id": "E2#1",
+  "cond": "concise",
+  "input": 2855,
+  "output": 591,
+  "result": "**Process**：作業系統分配資源的單位。每個 process 有自己獨立的記憶體空間（位址空間）、檔案描述符、權限等。一個 process 崩潰通常不會影響其他 process。建立成本較高，程式之間要溝通需要 IPC（如 pipe、socket、共享記憶體）。\n\n**Thread**：process 內部的執行單位。同一 process 的 threads 共享記憶體與資源，但各自有獨立的 stack 和暫存器狀態。建立與切換較快，資料共享方便，但會有競態條件（race condition）與鎖定（locking）的問題，而且一個 thread 出錯（如存取非法記憶體）可能讓整個 process 掛掉。\n\n**實務上怎麼選：**\n\n| 情境 | 較適合 |\n|---|---|\n| 需要隔離、一個子任務崩潰不能拖垮主程式（如瀏覽器分頁） | process |\n| 大量共享資料、頻繁協作（如伺服器處理同一快取） | thread |\n| CPU 密集的平行運算（Python 下尤其要注意 GIL） | process（或 multiprocessing） |\n| I/O 密集（網路、磁碟等待多） | thread 或 async |\n| 不信任的程式碼、外掛 | process |\n\n**補充：** Windows 上用 `Get-Process` 看 process；Task Manager 的「詳細資料」可展開 thread 數量。",
+  "cost": 0.00045113
+ },
+ {
+  "id": "E2#1",
+  "cond": "skill",
+  "input": 3240,
+  "output": 478,
+  "result": "A **process** is a running program with its own memory space: its own code, heap, file handles, and OS resources. Processes are isolated, so one crashing usually doesn't affect another.\n\nA **thread** is a unit of execution inside a process. Threads in the same process share its memory and resources but have their own stack and register state.\n\nIn practice:\n\n- **Use processes** when you need isolation or stability, such as running untrusted code, separate services, or a browser with one process per tab. Communication is slower and needs IPC (pipes, sockets, shared memory).\n- **Use threads** when tasks need to share data cheaply, such as a web server handling requests or a UI that stays responsive during a background job. Creating and switching threads is cheaper, but shared memory brings race conditions, so you need locks or other synchronization.\n- **Python caveat:** CPython's GIL means threads don't run Python bytecode in parallel. For CPU-bound work, use `multiprocessing`. For I/O-bound work, threads or `asyncio` are fine.",
+  "cost": 0.00039848
+ }
+]
